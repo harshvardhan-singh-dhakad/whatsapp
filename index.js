@@ -29,7 +29,8 @@ const aiModel = genAI.getGenerativeModel({ model: MODEL_NAME });
 
 // ─── CONFIG ───────────────────────────────────────────────────────────────────
 const ADMIN_NUMBER = process.env.ADMIN_NUMBER;
-const ADMIN_JID = ADMIN_NUMBER.includes('@') ? ADMIN_NUMBER : `${ADMIN_NUMBER}@c.us`;
+const ADMIN_CLEANED = ADMIN_NUMBER.replace(/\D/g, ''); // Strip all non-numeric (removes +, -, spaces)
+const ADMIN_JID = ADMIN_CLEANED.includes('@') ? ADMIN_CLEANED : `${ADMIN_CLEANED}@c.us`;
 const MAX_MESSAGES_PER_SESSION = 40;
 const COOLDOWN_MINUTES = 120; // 2 hours
 
