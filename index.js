@@ -24,7 +24,7 @@ import { startFollowUpScheduler } from './src/followUpManager.js';
 
 // ─── AI Setup ─────────────────────────────────────────────────────────────────
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
-const MODEL_NAME = 'gemini-1.5-flash';
+const MODEL_NAME = 'gemini-2.5-flash-lite';
 const aiModel = genAI.getGenerativeModel({ model: MODEL_NAME });
 
 // ─── CONFIG ───────────────────────────────────────────────────────────────────
@@ -154,7 +154,7 @@ async function handleIncomingMessage(msg) {
     }
 
     // Check if bot is paused globally
-    if (process.env.BOT_PAUSED === 'true' && !isAdmin) return;
+    if (process.env.BOT_PAUSED === 'true' && !isFromAdmin) return;
 
     // Media handling
     if (isMediaMessage(msg.type)) {
@@ -189,16 +189,16 @@ async function handleIncomingMessage(msg) {
     }
 
     // Don't reply if human is already handling
-    if (currentStage === STAGES.HUMAN_NEEDED && !isAdmin) return;
+    if (currentStage === STAGES.HUMAN_NEEDED && !isFromAdmin) return;
 
     try {
         await chat.sendStateTyping();
 
-        const history = conversationMemory.getHistory(phoneNumber);
+        const history = conversationMemory.getHistory(senderJID);
         
         // Add user message to memory before building prompt
-        conversationMemory.addMessage(phoneNumber, 'user', msg.body);
-        const updatedHistory = conversationMemory.getHistory(phoneNumber);
+        conversationMemory.addMessage(senderJID, 'user', msg.body);
+        const updatedHistory = conversationMemory.getHistory(senderJID);
 
         const { systemPrompt, messages } = buildPrompt(
             msg.body,
@@ -232,7 +232,7 @@ async function handleIncomingMessage(msg) {
         if (!aiReply) return;
 
         // Save reply to memory
-        conversationMemory.addMessage(phoneNumber, 'assistant', aiReply);
+        conversationMemory.addMessage(senderJID, 'assistant', aiReply);
 
         // Detect and update stage
         const nextStage = detectNewStage(msg.body, currentStage);

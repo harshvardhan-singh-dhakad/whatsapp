@@ -165,7 +165,8 @@ export function startFollowUpScheduler(client, leadManager) {
 
                 logger.info(`🕒 [Stage ${eligible.nextStage}] Follow-up for ${lead.phone}`);
 
-                const history      = conversationMemory.getHistory(lead.phone);
+                const jid = lead.phone.includes('@') ? lead.phone : `${lead.phone}@c.us`;
+                const history = conversationMemory.getHistory(jid);
                 const prompt       = buildFollowUpPrompt(lead, eligible.nextStage, history);
 
                 const result       = await aiModel.generateContent(prompt);

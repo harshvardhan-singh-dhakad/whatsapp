@@ -216,10 +216,14 @@
       {
         "role": "user",
         "content": "Hi"
+      },
+      {
+        "role": "user",
+        "content": "!start"
       }
     ],
-    "lastActivity": 1778748336923,
+    "lastActivity": 1778749558153,
     "profile": {},
-    "sessionMsgCount": 1
+    "sessionMsgCount": 2
   }
 }
