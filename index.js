@@ -135,6 +135,8 @@ async function handleAdminCommand(command, msg) {
 async function handleIncomingMessage(msg) {
     if (msg.from === 'status@broadcast') return;
 
+    const senderJID = msg.from;
+    const isFromAdmin = senderJID === ADMIN_JID;
     const chat = await msg.getChat();
     const botNumber = client.info.wid.user;
 
@@ -144,12 +146,9 @@ async function handleIncomingMessage(msg) {
         if (!mentioned) return;
     }
 
-    const phoneNumber = msg.from;
-    const senderNumber = phoneNumber.split('@')[0];
-    const isAdmin = senderNumber === ADMIN_NUMBER;
-
+    const senderNumber = senderJID.split('@')[0];
     // Admin commands
-    if (isAdmin && msg.body.startsWith('!')) {
+    if (isFromAdmin && msg.body.startsWith('!')) {
         await handleAdminCommand(msg.body, msg);
         return;
     }
@@ -275,7 +274,7 @@ async function handleIncomingMessage(msg) {
 // ─── BOT READY ────────────────────────────────────────────────────────────────
 client.on('ready', () => {
     logger.success('✅ AdsVerse Shivani Bot is LIVE! 🚀');
-    logger.info(`Admin: +${ADMIN_NUMBER}`);
+    logger.info(`Admin: ${ADMIN_NUMBER}`);
     startFollowUpScheduler(client, leadManager);
 });
 
