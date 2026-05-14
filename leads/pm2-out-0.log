@@ -1065,3 +1065,1447 @@ new Error (<anonymous>:6:31)
 █ █▄▄▄█ █ ▄█▀ ▀▄  ▀█▄▀  █▀ █▀▀█▀▄▀  ▄▀ ▀▄▄  ▀ ▄ ▄▄▀▀▀█▄██▀█
 █▄▄▄▄▄▄▄█▄███▄██▄███▄▄▄▄████▄▄███▄██▄█▄█▄▄█████▄▄█████▄████
 
+2026-05-14 14:06:38: [36m[INFO] 💾 Loaded 5 active conversations from memory.[39m
+2026-05-14 14:06:44: ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █▄▀ █▀▄███▄▄ ▀█▄█▄ ▀▀█ ▄█ █▀██▀█▀ █  ▄ ▄ ██ ▄▄▄▄▄ █
+█ █   █ █  ▀▀  ▄██▀▀▄▄▄█▀  █▄▄▀ █▄█▄▀ ██ █ ▀ ▄▀▄ ██ █   █ █
+█ █▄▄▄█ █▄ ██▀ ▀▀▀▀▄ ▀██ █▀ ▄▄▄ █ ▄▀ ▄  ▄▀▀██▄▄▀▄██ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄▀ ▀▄▀ █▄▀▄▀▄█ ▀▄█ █▄█ ▀ ▀ █ █ █▄▀▄█▄█ █ █▄▄▄▄▄▄▄█
+█ ▄  ▀█▄█▄ ▄▄██▀██▄▀ █▄   ▀ ▄▄   █ ▄▀▀█▄▄ ▀ ██▄█▀  ██ ▄ ▀ █
+██▀▀███▄▀ ▄█▀█ ▀▀  ██ ▄▄ ███▄ ▀ ▀▄▀ █▀▄█ █▄█▄▄██ ██▀▄  ▄  █
+█▀ ▄███▄▀▄ ▀ ▀▄ ▀▄█▄▀▀█▄ █  ▀▀█▀▄▀▀█▄ ▀ ▄▀▄█ █▀█▄█▀▀▀██▄▄██
+███ ▀▀█▄▄▀▄█████ ▀█▀█▄█  ▀ ▄▀▄█▀█ ▀█ ▄ █ ▄█▄█▄▄▄▄ ▀▀  █▀█▀█
+█▄▄▀▄▄▀▄ ▀▀█▀▄ ▄   ▀▄█▀█ ▄ ▄▄▄ ▄▄▄▄  ███▄█▀█▄▄▀▀ ███▄██▄█▄█
+█▄█ ▀▄▀▄▄█▀▄█ ▀▀█▀  ▄  █ █▀▀█▄█▄█ ▀ █  █▀█▀▀▄▄  ▀ ▀ █▀▄█▄▀█
+█ ▄█▄ █▄▀▀▄█   ██ ▄███▄▄▀█▀▀ ▄ ▀▀██▄▀▀ █▄ ▀ ▀██▄▄  █▄▄ ▀  █
+█▄█▄█▀ ▄ ▄ ▀▄█▄▀▀▄▄▀ ▄▀█  █▀▄██▄▀█▀█▀███▀▄█ ▄ ▄███▀▀█▀ ▄█ █
+██ █ ▄█▄██   ▀▄  █▄ █  ▀███▀██ █▄▄▄█▄▄  ▀█▄▄▄█ ██▄▀ ██ ▄  █
+█▀▄█  ▄▄▄ ▀▀▄▀▄  ▄▄▄▀▀█▄  █ ▄▄▄ █  ▀█▀▀▄█ ▀█▄▀▀ █ ▄▄▄ ▀▀▀██
+█▄█▄█ █▄█ █▄▀█▄▄█ █▄▄▄▀▀▀█▀ █▄█  ▄  ████ █ ▄█ ▀▀  █▄█ ▄▀█ █
+██▄▄▀▄ ▄▄▄ ▄▄ ▄  ▀█▄▄█▄▀▄▄▄▄  ▄ ▄█▀ ▀▀██▀▀ ██▄█▄▄ ▄▄▄ ▄▄ ██
+█  █▄▄▀▄▄█▀ ▀███ █ ▀▀█▄▄▀▀█▀█▄▀▀██ ▄ █▀██  ▀▀▀███▄ ▄▄▄▀▀▀▀█
+█▀▄  ██▄   ▀▀▀▄ ▄  ▀▄█▄█ ▄ ▀█▄ ██▄█▄ █▄▀▄▀ ▄█▀  ▀▀  █▄▀██▄█
+██▀█▄▄▀▄▄ ▀▄█▄█ ██▄▄▀███ ▄█ ██▄▄ █▀▄  ▀ ▀█▀▄▀█▄█▀█▀ ▀██████
+██ ▀▄▀▀▄ ███▀▀██ ▄█▄  ▀█▄▀█▀ ▄▄█▀█ ▄▀▀ ▄██  ▀▀▄▀██ ▀ █ ▀█▄█
+█▄█ ▄▄█▄ ██▀▄█▀▀▀▀▀█ █▄▀▀█▀ ▀ ▄▀█▄▄▀██▄▄ ▀ ▄▀▄█▀  █▄▄ ▀▄▀ █
+█▄ ▀▄▀█▄▄▀█ ▄▀ ▄▄▀█▄ ██ ▀███▄▀ ▄▀█▄▀▄ ██▀▀▀▄▄██▄█▀▄█ ▀ █ ▀█
+█  ▄▀▀ ▄ █▄     █▄▀▀▀█ █▄ ▄ ██▀ █▀▀▄ ▀██▄ ▄▀██▄▄▀▀▀▄██ ▄▀ █
+█ ▀ ▀▀▄▄█▀ ▀▄▄█▄ █ █ █ ▀██▀▀▀▀ ▀▄  ▄▄  ▀▀▀█ ▀▀  ▄▀▄ ▀ ▀▄█▄█
+███████▄█ ██ ▀▄▄▀█ ▄▄ ██▄▄▀ ▄▄▄ ▀█ █  ▀ ▀▀██ █ ▄█ ▄▄▄ ▄ ▄██
+█ ▄▄▄▄▄ █████▀ ▀ ██▄▀    ▀▄ █▄█ ▀ ▀██▀ ▀▄▀█ ▀▀▀█  █▄█ ▀ ███
+█ █   █ █▀██ ▀▀█▀██▀ ▄▀█ ▀▄▄▄   ▄ ▀▀█▀ ██▀▀▄█ █ ▄▄▄▄▄▄▄▄▀▄█
+█ █▄▄▄█ █ ▀ ▄  █    ▄▀█▀█▀ ████▀█▀▀▀ ▄▄ ▄▀▄  ▀▀▄▄   ▀▀███▀█
+█▄▄▄▄▄▄▄█▄▄▄▄██▄▄█▄█▄█▄▄█▄███████▄██▄███▄▄▄▄██▄█████▄▄█████
+
+2026-05-14 14:07:43: ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █▄▀ █▀▄▄ ██▄▄▀▄█▄▄ ▀▀█ ▄█ ██▄ ▀█▀█▄ ▄▀ ▄ ██ ▄▄▄▄▄ █
+█ █   █ █  ▀▀  ▄▄▄▀▀▄▄▄█▀▀ █▄▄▀  ▄█▄▄ ██ █ ▀ ▄▀▄ ██ █   █ █
+█ █▄▄▄█ █▄ ▀ ▀ ▀▀▀▀▄ ▀██ █▀ ▄▄▄  ▄▄▀ █  ▀ ▀█ ▀▄▀▄██ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄█▄█ ▀ █▄▀▄▀▄█ ▀▄█ █▄█ ▀ ▀ █ █ █▄▀▄█▄█ █ █▄▄▄▄▄▄▄█
+█ ▄  █▀▄█ ▄   █▀██▄▀ █▄   ▀▄▄▄   █ ▄▀▀█▄▄ ▀ ██▄█ ▀ ██ ▄ ▀ █
+██▀▀█▄▄▄ █▀▄▀▄ ▀▀  ██ ▄▄ ██▄  ▀ ▀▄█▄█▀▄█ █ ▀▄▄██▄ ▄ ▀█ ▄  █
+█▀ ▄▀██▄ ▀ ▄ ▀▄ ▀▄█▄▀▀█▄ █  █▀█▀▄▀▀█▄ █▀▄▀█▄ █████▀▀█▀▀▄▄██
+█▄  ▀▀█▄▄ ▄█████ ▀▄██▄▀█ ▀ ▄ ██▀█  ▄▄▄█  ▄ ▀█▄▄█ ▀▀▀▀   █▀█
+█▄█▀█▄▀▄ ▀▀█▀▄ ▄▀ ▀▀▄▄▀█▀█ ▄▄▄█▄▄▄▄▀██▄▄▄▀▀█  ▄▀ ███▄█▄▄█ █
+█   █ ▀▄▄█▀▄█ ▀▀▄▀   █ █▄▀▀▀█▄▄█▀ ▀   ▀▄█▀▀▀██▀ ▀ █▄█▀▄█▄▀█
+██ █▄ ▀▄▀▀▄█ ▀ ██ ▄███▄▄▀█▀▀ ▄ ▀███▄ ▀ █▄ ▀ ▄▀█▄▄  ▄▄▄ ▀▀▀█
+█▄█▄█▄█▄   ▀▀▄▄▀▀▄▄▀ ▄▀█  █▀▄██▄ ▄▀█▀███ ▄█ █ ▄███▀█▀█ ▄█ █
+██ █ █▀▄█ ▀█▀█ ▄ █▄ █  ▀██████ █▄▄▄█▄▄  ▀█▄▄▄█ ███ ▀ ▀ ▄  █
+█▀▄█  ▄▄▄ ▄█▀▄▀  ▄▄▄▀▀█▄  ▄ ▄▄▄ █  ██▀▀▄█ █▀▄▀▀ ▀ ▄▄▄ ▀▀▀██
+█▄█▀▀ █▄█  ▄▀█▀██ █▄▄▄▀▀▀█▀ █▄█  ▄█ ██▄▄ █▀▄█ ▀▀▄ █▄█ ▄██ █
+██▄█   ▄ ▄ ▄▄ ▄  ▀▀ ▄█▀█▄▄▄▄  ▄ ▄█  █▀▄▀▀▀▄█▀▄▄█▀ ▄  ▄▄▄ ██
+█▀█ █▄▀▄▄█▀ ▀███▄▄ █ ▄  ▀ █▀██▀▀██ ▄▀█ ▄ ▄▀  ▀▄█▀█ ▄▄█▀▀███
+█▄▄▀▀██▄▀  ▀▀▀▄ ▀█ ▀▄ ▄█ ▄ ▀▀  ██ █▄ ▄█▀▄█▀▄▀▄▀▀ ▀  ▄▀▀█ ▄█
+█ ▀█▄▄▀▄▄ ▀▄▀▀█ ██▄▄▀███ ▄█ ██▄▄▄▀▀▄▄ ▀ ▀█▀▄ ▀▄█▀█▀ ▀███▄██
+██ ▀▄▀▀▄ █▄▄ █▄  ▄█▄  ▀█▄▀█▀ ▄ █ ▄ ▄   ▄█▄  ▀ ▄▀██ ▀ █ ▀█▄█
+█▄█ ▄██▄ █   ▀▄ ▀▀▀█ █▄▀▀█▀ ▀ ▄▀█▄▄▀██▄▄ ▀ ▄▀▄█▀  ▀█▄ ▀ ▀ █
+█▄ ▀▄▀▄▄▄▀▄▀ ▄██▄▀█▄ ██ ▀███▄▀ ▄▀█ ▀▄ ▀▀▀▀▀ ▄██▄█ ▀█ ▀▄█ ▀█
+█  ██▀█▄▀ █▀  ▄▀█▄▀▀▀█ █▄ █▄██▀ █▀▄█ ▀ ▄▄ ▀ ██▄▄██▀▀█▄██▀ █
+█ ▀ ▀▀▄▄▄▀ ▀▄▄█▄ █▄▀ █████ █▀▀ ▀▄ ▀▄▄ ▄█▀█▀████▄▄▀ ▄██▄██▄█
+███████▄▄▀██ ▀▄▄ █  ▀▀▀▀▄█▀ ▄▄▄ ▀█ ██▄ ▀▀▀ █ ████ ▄▄▄ ▄▀ ██
+█ ▄▄▄▄▄ █████▀ ▀▄▀█▄█▄  █▄▄ █▄█ ▀ ▀██▄▀   ▄ █ ▀█▄ █▄█ ▀  ██
+█ █   █ █▀███ ▀█▀██▀ ▄▀█ ▀▄▄    █▄▀▀██ █ ▀▀▄▄ █ ▄▄▄▄ ▄▄▄▀▄█
+█ █▄▄▄█ █  ▀▀█      ▄▀█▀█▀ █▀▀█▀▄ ▀▀▀▄▄ ▄ ▄   ▀▄▄   █▀███▀█
+█▄▄▄▄▄▄▄█▄██▄▄▄▄▄█▄█▄█▄▄█▄██▄▄███▄██▄███▄▄▄▄██▄█████▄▄█████
+
+2026-05-14 14:08:03: ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █   ▀█ █ █▀ █▄▄▄▀▄█  █▄  ▀ █▄▀█▄  █▄█▀▀▄ ██ ▄▄▄▄▄ █
+█ █   █ █ ▀█ ▄▀▄█ ▄██▄█▀█▄▀██ ▄▄▄▄▄ ▄█▄██ ██▀█ ▄ ██ █   █ █
+█ █▄▄▄█ █▀ ██ ▀█▀█ ▀▀██▀▀   ▄▄▄ ▀▄▄█▄▄▀▄▄▀  █▀▄▀▄██ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄▀ █▄▀▄▀ ▀▄▀ ▀▄▀▄█ █▄█ ▀▄█▄█ █▄▀ ▀▄█ ▀▄█ █▄▄▄▄▄▄▄█
+█  ██ ▄▄▀▀▀▄█▀▀▄▀▄▄ ▄  ▀ ▀▀  ▄  ▄ ▄█▀ ▀▀ ▀▀▀▀  ▄ ▀█▀▄▀▄ ▄▄█
+███  █▀▄█▀██▀ ▄ ▄▀▄█▀▀▀█▄█▀▄▀▀█ ██▄█▀▀ ▄█▄ ▀ █ ▄█▄▀▀▀ ▄▄▄▀█
+███▄██▀▄▀ █▀▄█▀▀ ▄▀ ▄ ▄▄▄▀▄▀▄▀▀█▀ ▀▄ ▄▄▀█▀ ▀█▄ █  ▄ ▄▀█ ▀▄█
+█▄▀█▀█ ▄█ █▀ ▀▄█▀█ ▀▄▄█▄██▀▄   █▄ █▀▀ █▄▀▄ ▀ ▄▀▀▀  ▀ █▄▄▄▀█
+██ █   ▄▀█▀▀ ▀▀  ▄▄ ▄ ▄▀▀▀▀ ▄ ▀ █ ▄█▄ █▀█▀ ▀▀▄▀█▀ ▄▀▄▀█ ▄▄█
+█▀ ▀█▀▄▄▄▀█▀▄▀▀█ ▀▀▀▄█▄   ▀█▀▀▄██ ████▀ ▄▄  █▄█▄ ▀█▄▀▄█▄▀██
+█▄█    ▄█▄ ▄▄▄▄ ▀▀▄▄▀  █▀▄█▄▄█  ▀ ▀█ ▄▄ ▄▀▀▀▀ ▀█▄▀█▀ █  █▄█
+█▄▀█ ▄▄▄ ▀█▄▄ ▄ ▄█ ▀▄█▄▄▄ ▀ ▀▄▀▄█▄▄▄█▄▀▄▄█▀  ▀▀▄▀█ ▄  ▄▄▀▀█
+█▀█▄▀██▄█▄ ▄▀ ▀█▀█ ▄ ▀▀▀▀▀  ▄█▄▀▀███  █▀ █  ▀▄▀█  █▀▄▀▄ █▀█
+████▀ ▄▄▄ ▄▄█▄▀▀▀ ▀  ▀▄ █▄▀ ▄▄▄ ▄ █▀ █▄ ▄▄▄▀█▀▄   ▄▄▄ ▄█ ██
+█▀▄▄  █▄█  ▄  ▀██▄▄▀█ ▀█    █▄█ ▀ ▄█▄ █▀ ▀▀▀▄▄▀█▀ █▄█ ▀ ▄▄█
+█▀▀█  ▄▄ ▄▄▀█▀▄▄▄▄▀█▄▀▀ ██▄ ▄▄▄ ▄▀██ ▄ ▄▀▄█▄▀ ▄▀▄▄▄▄  █▄ ▀█
+██▄▄▀█▀▄▄██▀▀▄▀ ▄▄▄ ▄▀▀▀ ▀▀▄▀█▀ ▀ ▄█▄ █ ▄█  █  ██▄▄▀▀█▀ ▀ █
+█▄ ▄ ▄▀▄▀▄█ █▀ ▀█▀▄▀▄▄▀▄▄█▄ ▄ ▄█▀█ █ ▄▀ █▄▄██▄█▀▄▀▄▀█ ██ ██
+█▀█▄█▄█▄▀▀ ▄█▄ ▀▄█  ▄▄▄█▄  ▀▄█▄██▄ ▄  ▄▀▄▀█ ▀▄███▀▄▀ █▀▀ ██
+█▀▀▀██▄▄▀█▀ ▀  ▀▀   ▀  ▀▀█▄▀▀ ██ █▀ ▄█▀▄█ █▄▀▀██ ▀▀▀▀▀██▄▄█
+█▀▄▄▄█▄▄▀▀█▀  ▀ ▀█  ▀▀▄█   ▄▀▄█▄▄ ▄█▄ █  █▀▀  ██▀█▄▀▄▄ █ ▄█
+██ █ ▀█▄▄█▀▄▄█▄  ▄▄█ ▀▀█ ▄█▀ ▄▀█▀▀ ▄█▀█▀█▄ ▀▄▀▀█▄▀ █▄▄▄▄ ██
+█▀▄▀█▀▀▄█▄▄▄ ▀ ▀▀█▀ █ ▄▄▄▀ █▀▄▀▀▀▄ █  ▄  ▀█▀▀  █▀ █  ██▀███
+█ ▀ ▀▀▄▄▀▄█  ▄▀██▄▀▀▄▄ ▀▀██ ▄ ▄▀ ▀██ ▄▀█ ▄▄▄█▄▄▀▄▄ ██ █▄▀██
+███████▄█▀▄█▄█▀█▀█▄▄▄▀▀▀▄▀▄ ▄▄▄ ▄▄▀█▄▄█▀▄▀▀ █ ▀█▀ ▄▄▄  ██ █
+█ ▄▄▄▄▄ █▀▄▀ █▀▀▄▄  ▄▀▀▄▀██ █▄█    ▀▄  ▀ █ █▀   ▀ █▄█ ▄▄ ▀█
+█ █   █ █▄█▀   ▀▀▀▄▄▀ ▀▀▀▄█  ▄ ▄▀▄▀█ ▄▀▀ ▀ ▀█▄█▄█ ▄ ▄ █▀ ▀█
+█ █▄▄▄█ █▀▀▄██▀▄▄█▀▀▄█▀▄▄  ▀▀ ▄ ▄██▄▀█▄▄▀██▀▀▄█▀█▀ ▄█ ▄▄███
+█▄▄▄▄▄▄▄█▄▄█████▄▄▄▄▄▄▄████▄███▄███▄▄▄█▄▄█▄██▄▄▄█▄█▄▄██▄█▄█
+
+2026-05-14 14:08:23: ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █▀█ ▀██ █▀▀▀▄█ ▄ ▄ ███▄ █▄▄▀█ ▄▀█▄   ▄▄▄ ██ ▄▄▄▄▄ █
+█ █   █ █▀▀ █▀▀▄█▄▀ ▄▄█▄  ▀███▀▀▀█▄█▀▀▄█▄█  ▀█ ▄ ██ █   █ █
+█ █▄▄▄█ █▀██ ▄▄ ▄█ ▀▄  ▀▀ █ ▄▄▄ ▀█▀██▀▄▀▄▄  █ ▀▀▄██ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄█ █ ▀▄▀▄█ ▀ ▀ █ █ █▄█ ▀▄█ ▀▄█▄▀▄█ █ ▀ ▀▄█▄▄▄▄▄▄▄█
+█ ▄   ▀▄▄  █▀▀▄▀▄▄▄ ▀██▀ ▀▄ ▄▄  ▀█▀█▀ ▄▄█▀▀▀▄██▄   █ █▄▀ ▀█
+█ █  ▀█▄█ ▄▀▄ ▄ ▄▄▀ ▀▀▀ ▀ ▀█▀  ███ ▄▄▄  █▀▀  █ ▀▀▀ ▀▄█▀▀▄▀█
+██ ▀██▀▄ ▀ █▄█▄▄█▄▀ ▀█▀▄▄▀▀▄██▀█▄█▄▄ ▄ ▄ ▀   ▀▄▄  ▀████▄▄▀█
+█▀▀ █ █▄▄▀█▄█▄▄█▀ ▀▄▄▄ ▀  ▀▄▀██ ▄ ▀  ▀▀▄█▀█   ▀▀█▀ ▀  ▀▀▄▀█
+█▀█▀█  ▄▄ ▄▀ ▀▄█▄▄▄ ▀▄██▀▀▄█▀    █ █  ▄▄██▄ ▀▀ █▀ ▀▄▀▀█ ███
+█▄█▄█ █▄▄▀█▄▀▄▀█  ▄▄▀█▄█▄▄▀█▀▄▀▀█ █ ▄▀  ▄ ▄█▀██ █▄▀▄▀▀ ▀▄▀█
+██▄██▄▄▄ ▀█▄▀▄▀█▄▀▄▄▄███▀▄ ▀▀█  ▄█▄█▄▄▀███▀▀ ▀▄█▄▀ ███  ▀▀█
+█▀▀█ ▀ ▄▄██▄█   ▄ █▄▄█▄▀▀█▀ ▀▀▄▀█▄▄▀▀▀▀▄█ ▄█  ▀▀▄ ▄ ▄▀▀▀▀▀█
+█▀ ▀▄ █▄█▄▄ █▄ ▀▄█ ▄█▄▄▀▀▀▀█▀█▄▀▄  █   ▄██  ▄▀▄█   ██▀▄  ▄█
+█ ██▀ ▄▄▄   ▄▀▀ ▀█▄█ ▀▄█ ▀  ▄▄▄ ▄ ▀▄█ ▄▄▄▀█▄█▀ ▀▄ ▄▄▄ ▀  ██
+█▀▀   █▄█ ▄▄     ▄▄▀ █▄█  ▀ █▄█ ▄███▄ ▄██▀▀▀▀▀▄▄▀ █▄█ ▄█▀▀█
+█▀▄ █ ▄▄▄▄▄▄ ▄▄▄▄▀▀▄▄▀▄▀  █▄▄  ▄▄▀█▀█▀█▄██▄█▀▄▀▀▄▄▄▄▄    ▀█
+██▄▄▀█▀▄▀  ▀▀▄▄█▄▄▄ ▄▄▀█ ▀▄▀█▄▀ ▄█▀█▄▄▀█▀▀█  ▀▄█▀ ▀▄█▄   ▀█
+█▀▀ █▀▄▄▄ ██ ▄ ▀▄█▀▄██▀▀▄▀▄ ▄ ▀ ▀▀  ▀█ ▀  ▀▀█▀▄█▀▄▄▀█   ▀██
+██▄▀ ▄█▄▄▄█▄█▄█▄▀█  ▀▀▀█▄ █▄▀█▄█ ▀█▄ ▄▀▄█▀█  ▀ ██▀▀▄██▀▀▄▀█
+█▄▀▀█ ▀▄▀█ ▄ █▀ ▀███▀  ▄▄ ▄▀▀█▀▄ ▄▀█▀▀▀▄█▄ ▀ ▀█ █▄▀▀▀▄  ▄▄█
+█▀▀▀▀ █▄▄▄▄▀█▄██▄█  ▄▄▀█  █▀▄▄█▄▀█▀█▄  ███▀▀██ █▀███▀▄ ▀█▀█
+█  █ █▄▄▄█ █▀▄▄█ ▀▀  ▀▀ █▀▀▀ ▀▄ ▀▀ █ ▄█▀█▀▀ ▄▀▀▄▀█▄▀▄▀▄▀ ██
+█▀▀▄█ ▀▄▀██▀ ▀▀ ▄█▀  █▀▄▄▀▄ ▄▄▀▀▄▀▀█   ▄█▀▀ ▄█▄▄▀▄▀█▄█ ▀  █
+█ ▀ ▀▀▄▄█▀███▀▀██▀▄█▄▄▄▄▄ █▄▄█▀▄ ▀█ █▀█ ▄▀▄▄█▄ ▀▀▄▄█▄▄  ▀██
+███████▄▄ ▀█▄█▄ ██▄▄ ▄█▀▄▀▀ ▄▄▄ ▀▀▄█ ▄██▀█ ▀▄▀██▀ ▄▄▄  █ ▀█
+█ ▄▄▄▄▄ █▄▄▄█ ▀▀█████▀▀▀ ██ █▄█ ▄▄ ▄█▄  ▀▄█▀▀▀▀█  █▄█ ▀▀▄██
+█ █   █ █  ▀█▄█▄▄▀▄▄▄█▄▀▀▄ ▄ ▄ ▄ █▄█ ▄▄▄▀█ ▀▄█ ▄█  ▄ ▄█▀▄██
+█ █▄▄▄█ █  ▀▀▄█ ▄ ▄▄▄█▀▀▀█ ▀██▀████▀▄▀▄▄▀▀ ▄ ██▄ ▄ ▄██▀▀███
+█▄▄▄▄▄▄▄█▄██▄████▄▄▄██████▄█▄██▄▄▄▄▄▄▄▄███▄█▄██▄█▄▄█▄▄█▄▄██
+
+2026-05-14 14:08:43: ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █   ▀█ █ ▀ ▀  ▄▄█▄█  █▄  ▀▀▀  ▄▄▄▀  ██▀▄ ██ ▄▄▄▄▄ █
+█ █   █ █ ▀█  ▀▄▄ ▄█▄▄█▀▄▄▀██ ▄▄ ▄▄ ██▄█▄ ██▀█ ▄ ██ █   █ █
+█ █▄▄▄█ █▀▄█▀█▀█▀█ ▀▀██▀▀   ▄▄▄ ▄▄▄█ █▀▄▀█  ▀▄▄▀▄██ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄█ █▄▀▄▀ ▀▄▀ ▀▄▀▄█ █▄█ ▀▄█▄█ █▄▀ ▀▄█ ▀▄█ █▄▄▄▄▄▄▄█
+█  ██ ▄▄██ ▀█▄▀▄▀▄▄ ▄  ▀ ▀▀  ▄  ▄ ▄█▀ ▀▀ ▀▀▀▀  ▄▀ █▀ ▀▄ ▄▄█
+███  █ ▄▄▄███▀▄ ▄▀▄█▀▀▀█▄█▀▄▀▀█ ██ ▀▀▀▄ █▄ █ █  ▄   ▄▄▄▄▄▀█
+████▄█▀▄▄██ ▄█▀▀ ▄▀ ▄ ▄▄▄▀█ ▄█▀█▀ █▄ ▄▄ █▀  █▄█▄ ▀▄ ▄▀▀ ▀▄█
+█  ███ ▄▄ █▀ ▀▄█▀█ ▄▄▄ ▄██▀▄ ▀ █▄ ▀▀█ ▀▄█▄▄█▄ ██▀  ▀ ██▄▄▀█
+█▀█    ▄▀█▀▀ ▀▀ ▀▄  ▄▀▄▀  ▀ ▄ ▀▀█ ██    ▀▀ ▀█▄▀█▀ ▄▀▄▀█▀▄▄█
+█  █ ▀▄▄▄▀█▀▄▀▀█▀▄▀▀ █▄ ▄█▀█▀▀███ ██    ▀▄ ▀ ███ ▀█▄▀▄█▄███
+█    █ ▄█▄ ▄ ▀▄ ▀▀▄▄▀  █▀▄█▄▄█  █ ▀█  ▄  ▀▀▀█ ▀█▄▀▄  █  ███
+█▄▀█  ▄▄ █▄▄▀ █▀▄█ ▀▄█▄▄▄ ▀ ▀▄▀▄██▄▄██▀▄▄▄▀ ▀▀▀▄▀█▀▄▄ ▄▄▀▀█
+█▀█▄▀▀▀▄ ███ █ ▀▀█ ▄ ▀▀▀▀▀▄ ▄█▄▀▀███  █▀ █  ▀▄▀█▀ ▄ ▄▀▄ █▀█
+████▀ ▄▄▄  ▀▄▀ ▀▀ ▀  ▀▄ █▄▄ ▄▄▄ ▄ █▀ █ ▄▄▄ ▀█▀ ▄█ ▄▄▄ ▄█ ██
+█▀▄▀  █▄█     ▀▄█▄▄▀█ ▀█  ▄ █▄█ ▀  █▄ ▄  ▀▀▀▄▄▀██ █▄█ ▀ ▄▄█
+█ ▄  ▄ ▄ ▄▄▀█▀▄▄▄▄ █▄▀▀███▄▄▄▄▄ ▄▀█▄▄ ▀▄█▄███  █▄▄▄   ▄█ ▀█
+█ ▀█▀█▀▄  █▀▀▄▀ ▀▄█▄▄ ▄▀▄▀▀▄ ▄▀ ▀ ▄██▄▄▀▄██▀▀ ▄█▀▄▄▀ ▄ ▀▀▄█
+██▄▀█▄▀▄▀██ █▀ ▀█▀▄▀▄▄▀▄██▄ ▀▀▄███ █ ▄▀▀█▄█▄▄▄█▀▄▀▄▀ ▄██▄██
+█▀ ▄█▄█▄▀▀ ▄   ▀▄█  ▄▄▄█▄  ▀▄█▄ █▄ ▄ ▄▄▀▄██ ▀ ███▀▄▀ █▀▀ ██
+█▀▀▀██▄▄▀█▀▄▀▀█ ▀   ▀  ▀▀█▄▀▀ ▀▀▀█▀ ██▀▄▄ █▄ ▀██ ▀▀▀▀▀██▄▄█
+█▀▄▄▄ █▄▀▀▄  █▄█▀█  ▀▀▄█   ▄▀▄█▄▄ ▄█▄ █  █▀▀  ██▀██ ▄▄ ▀ ▄█
+██ █ ▄▀▄▄██   ▀▀ ▄▄█ ▀▀█ ▄▀▀ ▄▀█▀▀▄ █▀▀▀█▄ █▄▀█▀▄▄▄█▄▄█▄ ██
+█▀▄▀ ▄▀▄█ █  ▀▀█▀█▀ █ ▄▄▄▀▀▄▀▄▀▀▀▄ ▄   ▀ ▀▄▀▀ ▄██ ▀█▄▄▄▄███
+█ ▀ ▀▀▄▄▄ █  ▄▀██▄▄ ▄▄ █▀██▄▄ ▄▀ ▀▄█  ▄ ▄ █▄█  █▀  ▀ ▄▄█▀██
+███████▄▄▀▄█▄█▀█ █▄ █  █▀ ▄ ▄▄▄ ▄▄▀█   ▀▄▀ ▀█▄▀█▀ ▄▄▄ ▀██▄█
+█ ▄▄▄▄▄ █▀▄▀ █▀▀▄▀  █ ▀▄ ▄█ █▄█ ▄▄ ▀ █  ▄▀▀███▀ ▀ █▄█ ▄▄▄██
+█ █   █ █▄█▀▄█ ▀▀▀▄▄▀ ▀▀▀▄█ ▄  ▄█▄▀█  ▀▀▄▀ ▀█▄█▄▄ ▄ ▄▄█▀ ▀█
+█ █▄▄▄█ █▀▀█▄█▄█▄█▀▀▄█▀▄▄  ▀▀ ▄ ▄██▄ █▄▄ ▄█▀ ▄█▀█▀ ▄█ ▄▄███
+█▄▄▄▄▄▄▄█▄▄████▄▄▄▄▄▄▄▄████▄█▄█▄███▄▄▄█▄▄█▄██▄▄▄█▄█▄███▄█▄█
+
+2026-05-14 14:09:03: ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █▀█ ▀██▀▀█ ▀▄▀▀█   ███▄ █▄▀▀█▀ ▀▀▄█▄▀█▄▄ ██ ▄▄▄▄▄ █
+█ █   █ █▀▀ ▀▀▀▄▄▄▀ █▄█▄▀ ▀███▀▀▀▄▄█▀▀▄█▀▄   ▄ ▄ ██ █   █ █
+█ █▄▄▄█ █▀▀▀ ▄▄ ▄█ ▀▄  ▀▀ █ ▄▄▄ █▀▀█▀▀▄▀▀█  █▄▀▀▄██ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄▀ █ ▀▄▀▄█ ▀ ▀ █ █ █▄█ ▀▄█ ▀▄█▄▀▄█ █ ▀ ▀▄█▄▄▄▄▄▄▄█
+█ ▄  ▄█▄ ▄ ▄▄▀▄▀▄▄▄ ▀██▀ ▀ ▄▄▄  ▀█▀█▀ ▄▄█▀▀▀▄██▄ ▀ █▄█▄▀ ▀█
+█ █   █▄▄  █▀▄▄ ▄▄▀ ▀▀▀ ▀ ▀▄█  ███▄▄▄▄▄▄█▀▀  █ ▀▀  ▀██▀▀▄▀█
+██ █ █▀▄▄██ ▄█▄▄█▄▀ ▀█▀▄▄▀ ▄▄▀▀█▄█▄▄ ▄▀▄ ▀▄▀ ▀ ▄  ▀█▀██ ▄▀█
+█▄▄▄█ █▄▄▀█▄█▄▄█▀ ▀▄▄▄▄▀  ▀▄▀█▀▄▄ ▄█ ▀█▀█▀▄█  ▀  █ ▀   ▀▄▀█
+█▀▀▀▀  ▄▄ ▄▀ ▀▄█▀▄▀▄ █▀▀▄▀▄█▀ █▀ █▀▄▄▄▀█▄█ ▀▄▀ █▀ ▀▄▀▀█ ▀██
+█▀███▄█▄▄▀█▄▀▄▀█▄ ▄▄▀▄▄██▀▀█▀▄▀▀█▄█  ▄  ▄▄██▄▀█ █▄▀▄▀▀ ▀▄▀█
+█▀███▀▀▄ ▀█▄ ▀▀█▄▀▄▄▄███▀▄ ▀▀█   █▄██▄▀███▀▀ █▄█▄▀ ▄██  ▀ █
+█▀▀█  ▄▄▄█▄▀ ▄▄▀▄ █▄▄█▄▀▀█▀ ▀▀▄▀▄█▄▀▀ ▀▄█▀▄█▀ ▀▀▄  █ █▀▀▀▀█
+█▀ ▀▄██▄█ ▄  ▄ ▀▄█ ▄█▄▄▀▀▀▀█▀█▄▀▄  █   ▄██  ▄▀▄█▀  ▄▀▀▄  ▄█
+█ ██▀ ▄▄▄ ▄▄█  █▀█▄█ ▀▄█ ▀█ ▄▄▄ ▄ █▄█ ▄▄▄▀▀ █▀▄█▄ ▄▄▄ █  ██
+█▀▀ █ █▄█ ▀    ▄ ▄▄▀ █▄█  ▀ █▄█ ▄█▀▄▄  ██▀ ▀▀▀▄█▀ █▄█ █▀▀▀█
+█▀███▄ ▄  ▄▄ ▄▄▄▄▀█▄▄▀▀▄  █ ▄  ▄▄▀█ ▀█▀██▀▄▀█▄ ██▄    █▀ ▀█
+█▄▀█▀█▀▄▄  ▀▀▄▄█▄▄▄▄▀▄▀█▀ ▄▀▄█▀ ▄█▀█  ▀██▀▀▀▄██▄▀ ▀▄██ ▀▄██
+█▀█▄▄▀▄▄ ▀██ ▄ ▀ ▀▀▄▀█▀▀▄ ▄ ▄▀▀ ▀▀  ██▀ █▄▀ ▀ ▄█ ▄▄▀ █  ▄▀█
+█▀█▀ ▄█▄▄▄█▄▄ █▄▀█  ▀▀▀█▄ █▄▀█ ██▀█▄  ▀▄█▀█ ▄▀ ██▀▀▄██▀▀█▀█
+█▄▀▀█ ▀▄▀██▀▄  █▀███▀  ▄▄ ▄▀▀█▀▄ █▀█  ▀▄▄█ ▀  █ █▄▀▀▀▄  ▄▄█
+█▀▀▀▀ ▄▄▄▄▀▄█ ▀ ▄█  ▄▄▀█  █▀▄▄█▄▀█▀█▄  ███▀▀██ █▀█▀▀▀▄ ██▀█
+█  █ ▄ ▄▄█▀ ▄▀▀▀ ▀▀  ▀▀ █▀█▀ ▀▄ ▀▀▄█ ▄▀▀█▀█ ▄▀█▄▀▀ ▀▄▀ ▀ ██
+█▀▀█▀█▄▄▄▄ █ ▀▄▄▄█▀  █▀▄▄▀▄▄▄▄▀▀▄▀ ▄   ▄█▀▀ ▄███▀▄▀▀▄▄▄   █
+█ ▀ ▀▀▄▄█ ███▀▀██▀▄▀▄▄▀▀▄ ▄▀▄█▀▄ ▀▄ ██ █ ▀▄█▀ ▄▄▀█ █▀▀█ ▀██
+███████▄▄ ▀█▄█▄ █▄ ▄ █▀▀▀▀▀ ▄▄▄ ▀▀▄█  ▀█▀█▀  ▀▄▄▀ ▄▄▄  █ ▀█
+█ ▄▄▄▄▄ █▄▄▄█ ▀▀█▄██ ▄▀▀▀ █ █▄█ ▄▄ ▄▀█▀▀  █▀▄  ██ █▄█ ▀▀███
+█ █   █ █  ▀▀ █▄▄▀▄▄▄█▄▀▀▄ ▄   ▄ ▀▄█▀▄▄▄▀█ ▀▄▀ ▄█  ▄▄ █▀█▄█
+█ █▄▄▄█ █ ▀▄▀▄█▀▄ ▄▄▄█▀▀▀█ ▀▀█▀██▄█▀█ ▄▄ ▀ ▄▀▄█▄ ▄ ▄▀█▀▀███
+█▄▄▄▄▄▄▄█▄▄██▄█▄█▄▄▄██████▄█▄▄█▄▄▄▄▄▄▄▄███▄█▄██▄█▄▄█▄██▄▄██
+
+2026-05-14 14:10:14: ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █▀█ ▀█▄ █▀  ▄█ █   ███▄ █▄▀██▀ █▄▄ ▄█ ▄▄ ██ ▄▄▄▄▄ █
+█ █   █ █▀▀ ▀█▀▄▄▄▀ ▄██▄▀▀▀███▀▀▀▄▄█▀▀▄█▄█  ▀█ ▄ ██ █   █ █
+█ █▄▄▄█ █▀███▀▄ ▄█ ▀▄  ▀▀ █ ▄▄▄ █ ▀█ █▄▀▄▄  ██▀▀▄██ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄▀▄█ ▀▄▀▄█ ▀ ▀ █ █ █▄█ ▀▄█ ▀▄█▄▀▄█ █ ▀ ▀▄█▄▄▄▄▄▄▄█
+█ ▄  ▄▀▄ ▄▄▀█▀▄▀▄▄▄ ▀██▀ ▀▄▄▄▄  ▀█▀█▀ ▄▄█▀▀▀▄██▄▀▀ █▄█▄▀ ▀█
+█ █   █▄█▀▄▀▄▀▄ ▄▄▀ ▀▀▀ ▀  ▄█▄ ███  ▄▄▄ █▀▀  █▄███   █▀▀▄▀█
+██ █▀█▀▄▀▄▀▀▄█▄▄█▄▀ ▀█▀▄▄▀▀█▀▀▀█▄█▄█ ▄▀▄ ▀█  ▀█▄▀▀▀██▀▀▄▄▀█
+█▀██▄ █▄█▀█▄█▄▄█▀ ▄ ▄▄▄   ▀▄ ▄▀ ▄  ▀ █▄▀▀▀ ▀ ▄█▄█  ▀ ▀▀ ▄▀█
+█   █  ▄▄ ▄▀ ▀▄█ ▄   ▄█▀▀▀▄█▀ ▀  █▀█▀▄▄██▀▀ ▄█▄█▀ ▀▄▀▀█ █▀█
+█ ▄▀█ █▄▄▀█▄▀▄▀█  ▄▄ ▄▄██▀▀█▀▄▀▀▀▄█ ▄█▀ ▄ ▄▄  █▀█▄▀ ▀▀ ▀ ██
+█▄ ███▀▄ ▀█▄ ▄▀█▄▀▄▄▄███▀▄ ▀▀█   ▀▄█ ▄▀█▀█▀▀██▄█▄▀▀███  ▀ █
+█▀▀█ ▄▄▄▄▀█   ▀▄▄ █▄▄█▄▀▀█▀ ▀▀▄▀██▄▀▀▀▀▄▄▀▄█ ▀▀▀▄ █▀▄█▀▀▀▀█
+█▀ ▀▄▄▀▄▀▄█▀▀▄▀ ▄█ ▄█▄▄▀▀▀██▀█▄▀▄  █   ▄██  ▄▀▄█  ▀███▄  ▄█
+█ ██▀ ▄▄▄ ██▀▄▀▀▀█▄█ ▀▄█ ▀  ▄▄▄ ▄ ▀ █ ▄▄▄▀█▄█▀ ▀▀ ▄▄▄ █  ██
+█▀▀ ▄ █▄█ ▀█     ▄▄▀ █▄█  ▀ █▄█ ▄█▄█▄ ▀██▀  ▀▀▄█  █▄█  ▀▀▀█
+█▄▄█▄▄ ▄▄ ▄▄ ▄▄▄▄▀█ ▄▀    █ ▄  ▄▄▀█ █▀▀▀▀▀ ▀█▄ █ ▄▄▄ ▄ ▀ ▀█
+█ █▄▄█▀▄█▀ ▀▀▄▄███ ▄ ▄▀█  ▄▀██▀ ▄█▀█   ▄██ ▀▄▀ █▀ ▀▄▀▄ ▀ ██
+█▄▀▄█▀▄▄▀▄██ ▄ ▀ ▀▀▄██▀▀█▄▄ ▀█▀ ▀▀  ▄▄ ▀▄█ ▀▀▀█▄▀▄▄▀▄   ▄██
+█▀ ▀ ▄█▄▄▄█▄ ██▄▀█  ▀▀▀█▄ █▄▀█  ▀██▄▀ ▀▄███ █▀ ██▀▀▄██▀▀█ █
+█▄▀▀█ ▀▄▀███▀   ▀███▀  ▄▄ ▄▀▀█  ▀▄▀█▀ ▀▄██ ▀▀ █ █▄▀▀▀▄  ▄▄█
+█▀▀▀▀▀▄▄▄▄▄ ▄ ▄ ▄█  ▄▄▀█  █▀▄▄█▄▀█▀█▄  ███▀▀██ █▀█▀ ▀▄▄▀█▀█
+█  █  █▄▄█▀█▄▄▀  ▀▀  ▀▀ █▀▀▀ ▀▄ ▀▀ █ ▄█▀█▀█ ▄▀▀▄▀▄ █▄▀ ▀ ██
+█▀▀▄▄ ▄▄█▄ ▄ ▀▄▀▄█▀  █▀▄▄▀█▀▄▄▀▀▄▀▄█  ▀██▀▀ ▄██▄▀  ▀▀▄▄▀  █
+█ ▀ ▀▀▄▄ ▄███▀▀██▀ ▄▄▄▀█▄ ▄▀▄█▀▄ ▀▄▀██▄█▄█▀▀▀▄▀█▀▄▄█▄▀ ▀▀██
+███████▄█ ▀█▄█▄ ▄█▄  ▄▄▀ ▀▀ ▄▄▄ ▀▀▄█▄ ▀▄▀█   ▀▀██ ▄▄▄ ▀█ ██
+█ ▄▄▄▄▄ █▄▄▄█ ▀▀█▄████▀▀█ █ █▄█  ▄ ▄██▀ █ █▀▀▄ ▄█ █▄█ ▀▀ ▀█
+█ █   █ █  ▀█ █▄▄▀▄▄▄█▄▀▀▄ ▄▄  ▄▄▀▄█▄▄▄▄▀▀ ▀▄█ ▄█  ▄ ▄█▀▄██
+█ █▄▄▄█ █ ▄▀█▄▀ ▄ ▄▄▄█▀▀▀█ ▀██▀██▄█▀▄ ▄▄   ▄▀▄█▄ ▄ ▄██▀▀███
+█▄▄▄▄▄▄▄█▄▄▄▄█▄██▄▄▄██████▄█▄▄█▄▄▄▄▄▄▄▄███▄█▄██▄█▄▄█▄██▄▄██
+
+2026-05-14 14:11:14: ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █   ▀█ █ ▀▀ █ ██  █  █▄  ▀▄█ █▀   ▀▄ █▀▄ ██ ▄▄▄▄▄ █
+█ █   █ █ ▀█  ▀▄▄ ▄██▄█▀▄█▀██ ▄▄▀▄▄ ▄█▄█▄ ██▀█ ▄ ██ █   █ █
+█ █▄▄▄█ █▀▄▀█▀▀█▀█ ▀▀██▀▀   ▄▄▄  ▄▄█▄▄▀▄██   ▀▄▀▄██ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄█ █ ▀▄▀ ▀▄▀ ▀▄▀▄█ █▄█ ▀▄█▄█ █▄▀ ▀▄█ ▀▄█ █▄▄▄▄▄▄▄█
+█  ██▄ ▄▀█ █ ▄▀▄▀▄▄ ▄  ▀ ▀▀  ▄  ▄ ▄█▀ ▀▀ ▀▀▀▀  ▄  █▀▄▀▄ ▄▄█
+███  ▄▀▄█▄██  ▄ ▄▀▄█▀▀▀█▄█▄████ ██▄█▀▀▄ █▄▄█ █▄ ██ ▀▀▄▄▄▄▀█
+███ ▀█▀▄ ▀▄ ▄█▀▀ ▄▀ ▄ ▄▄▄▀█▀██▀█▀ ▄█ ▄▄▀█▀█▀█▄▀█  ▄ █▀█▄▀▄█
+█ ▀▄▄█ ▄▄▀█▀ ▀▄█▀██▄▄▄▀▀██▀▄▀ ▄█▄ █▀▀ ▄▀▀ █▄ ▄ ▄▀█ ▀▀██▄▄▀█
+█ ▀ ▀  ▄▀█▀▀ ▀▀  █ ▄▄▀▄▀  ▀ ▄ ▄ █ ▄█▄▄█▀ ██ ▀ ▀▄▀ ▄▀▄▀▄  ▄█
+█ █  ▀▄▄▄▀█▀▄▀▀██ ▀▀█ ▄  ▄▀█▀▀█▄▀▄██▀ ▀ ▄▀▀   ▄▄ ▀█ ▀▄█▄▄▀█
+█ ▀  ▄ ▄█▄ ▄▀▄▄ ▀▀▄▄▀  █▀▄█▄▄█  █▄▀█▄▄▄  █▀▀ ▄▀█▄▀█▀ █  █▄█
+█▄▀█ ▀▀▄ ▀█▀▀▀▀█▄█ ▀▄█▄▄▄ ▀ ▀▄▀▄▄█▄▄▄▄▀▄▄█▀ ▀ ▀▄▀█▀█▄▄▄▄▀▀█
+█▀█▄▀▄▄▄   █▀ ▀█▀█ ▄ ▀▀▀▀▀ ▄▄█▄▀▀███  █▀ █  ▀▄▀█▄▀█▀▀█▄ █▀█
+████▀ ▄▄▄ █▄██▀ ▀ ▀  ▀▄ █▄▀ ▄▄▄ ▄ ▀█ █▄▄▄▄▄██▀▄▄█ ▄▄▄ ▄█ ██
+█▀▄█▄ █▄█ ▀▀  ▄▄█▄▄▀█ ▀█  ▄ █▄█ ▀  █▄ █▀ ▀▀▀▄▄ ▄▀ █▄█ ▀ ▄▄█
+█▀▄▀  ▄▄  ▄▀█▀▄▄▄▄▄▄▄▀████▄ ▄▄▄ ▄▀▄█  ▀▄█▄ ██▄▄ ▄ ▄▄  ▄█ ▀█
+█▄ █▄█▀▄  █▀▀▄▀ ▀█▄▄█▀ █▄▀▀▄ █▀ ▀ ▄█▄ ▄▀▄█ ▀█▄ ██▀▄▀▀▄▀ █ █
+█▄▄▄▀▄▀▄▀ █ █▀ ▀██▄▀█▄▀▄ ▄▄  ▀▄██▀ ██ ▀▀▄█▄█ ▄█ █▀▄▀████▄██
+██ ▄█▄█▄▀▀ ▄▀█ ▀▄█  ▄▄▄█▄  ▀▄█▀▄█  ▄▄▄▄▀▀██ █▄███▀▄▀ █▀▀▀▄█
+█▀▀▀██▄▄▀█▀█ ▀█▄▀   ▀  ▀▀█▄▀▀ █▀▀▄▀ █▄▀▄▄▀█▄ ▀██ ▀▀▀▀▀██▄▄█
+█▀▄▄▄ ▄▄▀▀█▄▄▀█ ▀█  ▀▀▄█   ▄▀▄█▄▄ ▄█▄ █  █▀▀  ██▀█▀ ▄▄▄█ ▄█
+██ █ ▄█▄▄█▀▄▄▀▄▄ ▄▄█ ▀▀█ ▄█▀ ▄▀█▀▀▄▄█▀▀██▄ ▀▄▀█▀ ▀ ▀▄▄█▄ ██
+█▀▄▀▀▄█▄▄▄ █ ▀  ▀█▀ █ ▄▄▄▀ ▄▀▄▀▀▀▄ ▄  █▀ ▀  ▀ ███ ██ █▀▄███
+█ ▀ ▀▀▄▄▀▀█  ▄▀██▄▀ ▄▄█ ▀█▄▀▄ ▄▀ ▀█▄  ▀▀▄▄█▄█ █▀█  ▀ ███▀██
+███████▄▄▀▄█▄█▀█▀█▀▄█ ▀▀ ▀▄ ▄▄▄ ▄▄▀█ ▄▄ ▀█▄ ▄  ██ ▄▄▄ ▀█▀▄█
+█ ▄▄▄▄▄ █▀▄▀ █▀▀ ▄  ▀█▀▄ ▀█ █▄█    ▀▀▄▀▀█ ▀▄█  ▀▄ █▄█ ▄▄▄▀█
+█ █   █ █▄█▀▀█ ▀▀▀▄▄▀ ▀▀▀▄█  ▄ ▄▄ ▀█  ▀▀▄▀ ▀█▄█▄█ ▄ ▄ █▀▀ █
+█ █▄▄▄█ █▀▀█▄▀ ▄▄█▀▀▄█▀▄▄  ▀▀▄▄ ▄██▄ █▄▄ ▄█▀ ██▀█▀ ▄█▄▄▄███
+█▄▄▄▄▄▄▄█▄█▄▄▄█▄▄▄▄▄▄▄▄████▄███▄███▄▄▄█▄▄█▄██▄▄▄█▄█▄█▄█▄█▄█
+
+2026-05-14 14:11:34: ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █▄▀ █▀█▄▀▀▄███▄█▄▄ ▀▀█ ▄█ █▀▀ ▄▀█▀▄▄▀  ▄ ██ ▄▄▄▄▄ █
+█ █   █ █  ▀█  ▄█▄▀▀▄▄▄█▀▀ █▄▄▀ █▄█▄▀ ███▄ ▀ ▄▀▄ ██ █   █ █
+█ █▄▄▄█ █▄▄▀▀█ ▀▀▀▀▄ ▀██ █▀ ▄▄▄  ▀▄▀ ▄   ▄▀█▄ ▄▀▄██ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄▀▄█ ▀ █▄▀▄▀▄█ ▀▄█ █▄█ ▀ ▀ █ █ █▄▀▄█▄█ █ █▄▄▄▄▄▄▄█
+█ ▄  █▀▄▀ ▀ ▄▄█▀██▄▀ █▄   █▄▄▄   █ ▄▀▀█▄▄ ▀ ██▄█▀  █▀▄▄ ▀ █
+██▀▀██▄▄  ▀█▀█ ▀▀  ██ ▄▄ █ █  ▀ ▀▄▀ █▀▄█ █▄▀▄▄██ ▄▄▀█  ▄  █
+█▀ ▄ ██▄▀▄█▄ ▀▄ ▀▄█▄▀▀█▄ █  █▀█▀▄▀██▄ █▀▄▀█▄ █ ▄▄▄▀▀█▀█ ▄██
+█▄█ ▄▀█▄█ ▄█████ ▀▀▀█▄█  ▀ ▄▀▄▀▀█  ▀▄ █▄▄ ▄▄█▄▄  █▀▀  █ █▀█
+█▄▄▄▀▄▀▄ ▀▀█▀▄ ▄  █▀██▄▀█▄ ▄▄▄▀▄▄▄▄ ▀▀▄█ ▀▀█▄    ███▄██▄▀ █
+██ ▀▄▄█▄▄█▀▄█ ▀▀▀█  ▀█ █ ▄▀▀█▄▄▄█▄▀  ▄▀▄▄▀▀ ▄   ▀ ▀ █▀▄█▄██
+█▀▀█▄ █▄▀▀▄█   ██ ▄███▄▄▀█▀▀ ▄ ▀ ██▄▄█ ██▄▀ ███▄▄  ▄▄▄ ▀▀▀█
+█▄█▄█ █▄▄▄ ▄█▄ ▀▀▄▄▀ ▄▀█  █▀▄██▄▀▄▀█ ▄██▀▄█ █ ▄████▄██ ▄█ █
+██ █ ██▄▀▄▄▄█ ▀█ █▄ █  ▀███▀██ █▄▄▄█▄▄  ▀█▄▄▄█ █▄▄▀ ██ ▄  █
+█▀▄█  ▄▄▄ ██ ▀█  ▄▄▄▀▀█▄  █ ▄▄▄ █ ▄██▀█ █ ▀▀▄▀▀ █ ▄▄▄ ▀▀▀██
+█▄█▀█ █▄█ ▄▀▀██▀█ █▄▄▄▀▀▀██ █▄█  ▄  ██▀▄ █ ▄█  ▀▄ █▄█  ▄█ █
+██▀ █  ▄▄  ▄▄ ▄  ▀██▄██▀▄▄▄▄  ▄ ▄█ ▀▀▀▄ █▀▀▀█▄ ██ ▄▄▄  █ ██
+██▀▀▄▄▀▄▀▀▀ ▀███ █ █ ▄  ▀▀█▀██▀▀██ ▄▄█▄▄    ▄▀███▀ ▄▄█  ███
+█▀▄█ ██▄   ▀▀▀▄    ▀  ▄█▀▄ ▀▀█ ██▄█▄▄█▄▀▀ ▀█▄█▀▀▀▀  ▀▀▀█  █
+█▀██▄▄▀▄▄ ▀▄█ █ ██▄▄▀███ ▄█ ████▄█▀▄▄ ▀ █▀▀▄▄█▄█▀█▀ ▀███▄██
+██ ▀▄▀▀▄ █▄█▄█ █ ▄█▄  ▀█▄▀█▀ ▄ ▀ █ ▄▀▀ ▄▄█   ▀▄▀██ ▀ █ ▀█▄█
+█▄█ ▄█▄▄ █▀  █ ▀▀▀▀█ █▄▀▀█▀ ▀ ▄▀█▄▄▀██▄▄ ▀ ▄▀▄█▀   █▄ █▄▀ █
+█▄ ▀▄█▀▄▄▀▄▀▀▀ ▀▄▀█▄ ██ ▀█▀█▄▀ ▄▀█▄█▄ ██▀▀▀▄▄██▄█▀▄█ ▀▄▄ ▀█
+█  ▄▄▀ ▄▄▀▄▄  ▀██▄▀▀▀█ █▄ ▄▀██▀ █▀▄█ ▀ █▄ ▄▀██ ▄▀▀▄▀▄▄▄▀▀ █
+█ ▀ ▀▀▄▄▀█ ▀▄▄█▄ █▄▀ █▄▄██▀▀▀▀ ▀▄ ▀▄ ▄▄▄▀█▀▄▀▀▄ ▄ █ ▀ ▄▄█▄█
+███████▄▄ ██ ▀▄▄ ▄▀    ▀ █▀ ▄▄▄ ▀█ █    █▀▄▄ █▀▄▀ ▄▄▄ ▄▀▄▀█
+█ ▄▄▄▄▄ █████▀ ▀▄▀█▄█▀  ▀ ▄ █▄█ ▀ ▀█ █▀   █  ▀▀▄▀ █▄█ ▀ ███
+█ █   █ █▀██▀▄▀█▀██▀ ▄▀█ ▀▄▄▄   █▄▀▀█▀ █ ▀▀▄█▄█ █▄▄▄ ▄▄▄▀██
+█ █▄▄▄█ █ █  ▀▄▄    ▄▀█▀█▀ ██▀█▀█ ▀▀▀▄▄ █▀▄ ▀ ▀▄▄    ████▀█
+█▄▄▄▄▄▄▄█▄█▄████▄█▄█▄█▄▄█▄██▄▄███▄██▄███▄▄▄▄██▄████████████
+
+2026-05-14 14:11:54: ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █▄▀ █▀█▄▀█▄█ ▀█▄▄  ▀▀█ ▄█ ▀█▀▀▄███  ██ ▄ ██ ▄▄▄▄▄ █
+█ █   █ █  ▀▀  ▄██▀▀▄█▄█▀  █▄▄▀ ▄▄█▄ ▀██ █ ▀█▄▀▄ ██ █   █ █
+█ █▄▄▄█ █▄ █   ▀▀▀▀▄ ▀██ █▀ ▄▄▄  █▄▀█▄  ▄▀▀█▀▀▄▀▄██ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄▀▄▀▄▀ █▄▀▄▀▄█ ▀▄█ █▄█ ▀ ▀ █ █ █▄▀▄█▄█ █ █▄▄▄▄▄▄▄█
+█ ▄  █▀▄▀ ▀▀▄ █▀██▄▀ █▄   █ ▄▄   █ ▄▀▀█▄▄ ▀ ██▄█ ▀ ██ ▄ ▀ █
+██▀▀███▄  ▄▀█  ▀▀  ██ ▄▄ █▄▄ ▄▀ ▀▄█ █▀ █ █ █▄▄▀█▀ █▀█▀ ▄  █
+█▀   ██▄▀▀ █ ▀▄ ▀▄█▄▀▀█▄ █ ▀ ██▀▄▀ ▄▄  ▀▄▀█▄ █▀▄▀█▀▀██▀ ▄██
+█▄▄▀█▀█▄▄▀▄█████ ▀▀▀█▄▀▄ ▀ ▄ ▄▀██ ▀█▄▄ █  ███ ▀█  ▀▀▀ █ █▀█
+█▄▀█ ▄▀▄ ▀▀█▀▄ ▄  ▀███ █ █ ▄▄▄█▄▄▄▄▀▀▀▄▄ ▀ ▄ ▄▀▀ ███▄██▄█▄█
+█ ▄ ▄ ▀▄▄█▀▄█ ▀▀▀   ▄▀ ███▀▀█▄▄██ ▀ ▀▄▀▄▄   ▄█  ▀ ▀ █▀▄█▄▀█
+█▄ █▄ ▀▄▀▀▄█▀  ██ ▄███▄▄▀█▀▀ ▄ ▀▀██▄▄▀ █▄▄▀ ▀▀█▄▄ ▄█▄▄ ▀▀▀█
+█▄█▄█ ▄▄  █ █ █ ▀▄▄▀ ▄▀█  █▀▄██▄ ▄▀█▀▄██ ▄█ ▄▀▄███ ▀▀█ ▄█ █
+██ █   ▄▄▄█▀  ▄  █▄ █  ▀██▀▀██ █▄▄▄█▄▄  ▀█▄▄▄█ █▀█ ▀ █ ▄  █
+█▀▄█  ▄▄▄ ▄▄█ ▀▀ ▄▄▄▀▀█▄  ▄ ▄▄▄ █  ██▀▀▄█ ██▄▀▀▄▀ ▄▄▄ ▀▀▀██
+█▄█ █ █▄█ ▄█▀████ █▄▄▄▀▀▀██ █▄█  ▄▄▀██▄█ █ ██ ▀ █ █▄█ ▀██ █
+█▀▄▄█▄▄▄ ▄ ▄▄ ▄  ▀▄▄▄█▄▄▄▄▄   ▄ ▄█▀ █▀▀▀▀█▄▄█▄▄▄▄▄▄▄▄▄▄█ ██
+█ █▀█▄▀▄▄█▀ ▀████▄▄█▀█▄ ▀ █▀▄▄▀▀██ ▄ █▀▄▄  ▀█▀▄▄▀█ ▄▄▄ ▀█▀█
+█▄▄▀▄██▄█▀ ▀▀▀▄ ▄█ ▀ ▀▄█   ▀ ▄ █▀▄█▄███▀▄▀▀█▀  ▀ ▀   ▀▀█▄ █
+█▀▄█▄▄▀▄▄ ▀▄▄ █ ██▄▄▀███ ▄█ ███ ▄█▀▄ ▄▀ ▀█▀▄▄█▄█▀█▀ ▀███▄██
+██ ▀▄▀▀▄ ██▀ ▄█▄ ▄█▄  ▀█▄▀█▀ ▄ █ ▄ ▄▀  ▄██    ▄▀██ ▀ █ ▀█▄█
+█▄█ ▄▄▄▄ █▄▀ ▀  ▀▀▀█ █▄▀▀█▀ ▀ ▄▀█▄▄▀██▄▄ ▀ ▄▀▄█▀    ▄ █▄▀ █
+█▄ ▀▄█▄▄▄▀▀█▀▄▄█▄▀█▄ ██ ▀█▀█▄▀ ▄▀█▄▀▄ ██▀▀▀ ▄█▀ ▀  █ ▀▄▄ ▀█
+█  ▀█▄█▄▄█ ▀  █▄█▄▀▀▀█ █▄ █ ██▀ █▀▄▄ ▀ ▄▄ ▀▀██ ▄█▀▄ ▄▄ ▀▀ █
+█ ▀ ▀▀▄▄█  ▀▄▄█▄ █   █████▀▀▀▀ ▀▄  █  █▄██▄███▄▄█▀█ ▀ ▀▄█▄█
+███████▄▄▀██ ▀▄▄█▄ ▄█ █▀██▀ ▄▄▄ ▀█ █▀▄▀▀███▄ ▀▀█▀ ▄▄▄ ▄  ▀█
+█ ▄▄▄▄▄ █████▀ ▀▄▀█▄▀▄  █▀▄ █▄█ █ ▀█ ▄ ▀█▀▄▀▄█▀██ █▄█ ▀ ▀██
+█ █   █ █▀██▀█▀█▀██▀ ▄▀█ ▀▄▄▄▄  ▄▄▀▀█▀ ███▀▄  █ ▄▄▄▄ ▄▄▄ ▄█
+█ █▄▄▄█ █ ▄▄  ▀█    ▄▀█▀█▀ ████▀█ ▀▀▀▄▄ █ ▄ ▀▀▀▄▄   ▀▀███▀█
+█▄▄▄▄▄▄▄█▄█▄██▄█▄█▄█▄█▄▄█▄██▄▄███▄██▄███▄▄▄▄██▄██████▄█████
+
+2026-05-14 14:12:14: ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █▄▀ █▀▄▄███▄▄▀█▄▄  ▀▀█ ▄█ █▀▄▀ ▀▄▄▄ █▀ ▄ ██ ▄▄▄▄▄ █
+█ █   █ █  ▀▀  ▄██▀▀██▄█ ▀ █▄▄▀ ▀▄█▄  ██▀█ ▀ █▀▄ ██ █   █ █
+█ █▄▄▄█ █▄▄█▀▀ ▀▀▀▀▄ ▀██ █▀ ▄▄▄ █▀▄▀▀▀  █▀▀██ ▄▀▄██ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄▀▄█▄▀ █▄▀▄▀▄█ ▀▄█ █▄█ ▀ ▀ █ █ █▄▀▄█▄█ █ █▄▄▄▄▄▄▄█
+█ ▄  ▀█▄█▄▀█ ▄█▀██▄▀ █▄   █ ▄▄   █ ▄▀▀█▄▄ ▀ ██▄█▄  █▀ ▄ ▀ █
+██▀▀█▄▄▄▀▄▀▀█▄ ▀▀  ██ ▄▄ █▄▄▄ ▀ ▀▄▀ █▀▄▀ █▄█▄▄▀▀███▀▀▀ ▄  █
+█▀ ▄▄██▄█ █▀ ▀▄ ▀▄█▄▀▀█▄ █  ███▀▄▀ █▄   ▄▀██ ██▄ █▀▀▀▀█ ▄██
+█▄█▄ ▀█▄▄▀▄█████ ▀▀██▄▀▀ ▀ ▄▀▄▀▀█ ▀▄▄  █ ▄▀ ▀  █▄▄▀▀ ▀▀▀█▀█
+██▄▄█▄▀▄ ▀▀█▀▄ ▄▀  ▀ █ █ █ ▄▄▄▀▄▄▄▄ ████ █▄█▀▄█▀ ███▄█▄▄▀▄█
+██▀█▄▄▀▄▄█▀▄█ ▀▀██  █▀ █ ▄▀▀█▄███▄▀ ▀█▀▄▀  ▀█ ▀ ▀ █▄█▀▄█▄██
+█ ██▄▄ ▄▀▀▄█ █ ██ ▄███▄▄▀█▀▀ ▄ ▀▀██▄ ▀ █  ▀ █▀█▄▄  ▄▄▄ ▀▀▀█
+█▄█▄█  ▄ ▄▀█ ▀▀█▀▄▄▀ ▄▀█  █▀▄██▄▀█▀█ ▄██▀██ ▄ ▄███▀▀█▀ ▄█ █
+██ █ ▀█▄█▀ ████  █▄ █  ▀███▀██ █▄▄▄█▄▄  ▀█▄▄▄█ ███  ██ ▄  █
+█▀▄█  ▄▄▄  █  █▄ ▄▄▄▀▀█▄  █ ▄▄▄ █  ██▀▀ █ ██▄▀█▄█ ▄▄▄ ▀▀▀██
+█▄█▀  █▄█ █▀▀█  █ █▄▄▄▀▀▀█▀ █▄█  ▄ ▀███▄ ██▄█  ▀▄ █▄█ ▀▀█ █
+█▄▀██ ▄▄ ▄ ▄▄ ▄  ▀▀ ▄█▄▄▄▄▄▄  ▄ ▄█▀ ▀█▄▄██ ██ █▀▀  ▄▄▄▄▄ ██
+██▀██▄▀▄▀▀▀ ▀█████▄▀▀█▄ ▀▀█▀▄▄▀▀██ ▄▄█▀█   ▀█▀█▄█▀ ▄█▄  ▀██
+█ ▄ ███▄▄  ▀▀▀▄  █ ▀█▄▄█▀█ ▀█  ██ █▄█ █▀▀█ ██▄▀▀▀▀   ▀▀█▄▄█
+█  █▄▄▀▄▄ ▀▄▄▄█ ██▄▄▀███ ▄█ ██   ▀▀▄▄ ▀ ▄█▀▄ █▄█▀█▀ ▀████▄█
+██ ▀▄▀▀▄ ██▀▀ ▄▀ ▄█▄  ▀█▄▀█▀ ▄▄█▀█ ▄   ▄▄▄  ▀ ▄▀██ ▀ █ ▀█▄█
+█▄█ ▄█▄▄ █▄▀ █▀▀▀▀▀█ █▄▀▀█▀ ▀ ▄▀█▄▄▀██▄▄ ▀ ▄▀▄█▀  █▄▄ ▀▄▀ █
+█▄ ▀▄  ▄▄▀▀██ ▀█▄▀█▄ ██ ▀███▄▀ ▄▀█▄█▄ ██▀▀▀▄▄██ █▀▄█ ▀█▄ ▀█
+█  █▀▄▄▄▀ ▄▀  ▄▄█▄▀▀▀█ █▄ ▄███▀ █▀▄█ ▀ █▄   ██▄▄██ ▀▄▄█▄▀ █
+█ ▀ ▀▀▄▄▀  ▀▄▄█▄ █▀  █▀███ ▀▀▀ ▀▄  ▄▄▄  █▀ ▀█▀▀▄  █ ██▀██▄█
+███████▄▄ ██ ▀▄▄ ██  ▀█▀ █▀ ▄▄▄ ▀█ █▄▄  █▀████ ▄█ ▄▄▄ █  ██
+█ ▄▄▄▄▄ █████▀ ▀ ██▄▀    ▀▄ █▄█ ▀▄▀█▄▄   ▄█▀██▀█  █▄█ ▀  ██
+█ █   █ █▀██▄▄▀█▀██▀ ▄▀█ ▀▄▄▄   ▄▄▀▀█▀ █ █▀▄  █ ▄▄▄▄ ▄▄▄▀▄█
+█ █▄▄▄█ █ █    ▄    ▄▀█▀█▀ ████▀█▀▀▀ ▄▄ █▀▄ ▀▀▀▄▄   ▄▀███▀█
+█▄▄▄▄▄▄▄█▄▄█▄█▄▄▄█▄█▄█▄▄█▄██▄████▄██▄███▄▄▄▄██▄████████████
+
+2026-05-14 14:12:34: ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █▄▀ █▀▄█▀██▄▄▀█▄▀▄ ▀▀█ ▄█ █▀▄▄▄▀ ▄▄  ▀ ▄ ██ ▄▄▄▄▄ █
+█ █   █ █  ▀█▄ ▄█▄▀▀▄█▄█▀  █▄▄▀  ██▄▀▀███▄ ▀ ▄▀▄ ██ █   █ █
+█ █▄▄▄█ █▄▄█▄  ▀▀▀▀▄ ▀██ █▀ ▄▄▄ ▄▀▄▀ ▀  ▄▄▀█▄ ▄▀▄██ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄█ █▄▀ █▄▀▄▀▄█ ▀▄█ █▄█ ▀ ▀ █ █ █▄▀▄█▄█ █ █▄▄▄▄▄▄▄█
+█ ▄  █▀▄█ ▀▄▀██▀██▄▀ █▄   ▀▄▄▄   █ ▄▀▀█▄▄ ▀ ██▄█▀  ██ ▄ ▀ █
+██▀▀█▄▄▄▀ ▄    ▀▀  ██ ▄▄ █▄█  ▀ ▀▄█ █▀▄█ █ ▀▄▄██▀▄█ ▀  ▄  █
+█▀ ▀▄██▄▄ █▄ ▀▄ ▀▄█▄▀▀█▄ █▀▀▀██▀▄▀▀▄▄  ▀▄▀█▄ █ ▄██▀▀▀█▀ ▄██
+█ ▄█ ▀█▄█ ▄█████ ▀▄ █▄▀  ▀ ▄ ▄▀▀█ ▄█▄ ▀▀▄ █▀▀ ▄▄  ▀▀▀ ▀ █▀█
+█▀▀▀ ▄▀▄ ▀▀█▀▄ ▄ ▀▀▀ █ ▀▀▄ ▄▄▄█▄▄▄▄ ▀▀█▄ ▀▀█▀  ▀ ███▄█▄██ █
+█ █▄  ▀▄▄█▀▄█ ▀▀▄   ██ ██▀▀▀█▄▄██▄▀ ▀ ▀▄█▀▀ ██▀ ▀ ▀ █▀▄█▄▀█
+█▀▄█▄  ▄▀▀▄██▄ ██ ▄███▄▄▀█▀▀ ▄ ▀▄▀█▄▄▀ █  ▀ ▀██▄▄ ▄▄▄▄ ▀  █
+█▄█▄█ █▄  ██ ▄██▀▄▄▀ ▄▀█  █▀▄██▄ █▀█▀███▀▄█ ▄▀▄███ ▀██ ▄█ █
+██ █  ▀▄ ▄▀▄▀▄ ▄ █▄ █  ▀██████ █▄▄▄█▄▄  ▀█▄▄▄█ ███  ▄▀ ▄  █
+█▀▄█  ▄▄▄  ▀█▄█▀ ▄▄▄▀▀█▄  █ ▄▄▄ █ ▄██▀█▄█ ▀█▄▀▀▄▄ ▄▄▄ ▀▀▀██
+█▄██  █▄█  ▄▀█▀▄█ █▄▄▄▀▀▀██ █▄█  ▄▀▀██ ▄ █▀██ █▀  █▄█ ▀▄█ █
+██ ▄   ▄▄▄ ▄▄ ▄  ▀▀▄▄█▄ ▄▄▄   ▄ ▄█ ▀▀█▄▄██ ▄█▄█   ▄▄▄▄▀█ ██
+█▀▀▄▀▄▀▄▄▄▀ ▀████▄ ▀ ▄█ ▀▀█▀██▀▀██ ▄▄██▄  ▀ ███▄█▄ ▄▄▄  █▀█
+█▀██▄██▄▄▄ ▀▀▀▄ ▀▀ ▀▀▄▄█▀▄ ▀ ▀ █▀ █▄ ▄█▀▄▀ ▄▀▀▀▀▀▀  ▄▄▀█  █
+█▀▄█▄▄▀▄▄ ▀▄███ ██▄▄▀███ ▄█ ██▀  ▀▀▄▄ ▀ ██▀▄ █▄█▀█▀ ▀██████
+██ ▀▄▀▀▄ ████▀█  ▄█▄  ▀█▄▀█▀ ▄ █ ▄ ▄   ▄██  ▀▀▄▀██ ▀ █ ▀█▄█
+█▄█ ▄█▄▄ █▀██▀▄█▀▀▀█ █▄▀▀█▀ ▀ ▄▀█▄▄▀██▄▄ ▀ ▄▀▄█▀    ▄ █▄▀ █
+█▄ ▀▄██▄▄▀▄ █  ▀▄▀█▄ ██ ▀███▄▀ ▄▀█▄█▄ ██▀▀█▄▄█▀▄▀ ▄█ ▀▄█ ▀█
+█  ██▀ ▄▀▀█▀  █▀█▄▀▀▀█ █▄ █▄██▀ █▀▄▄ ▀ █▄  ▀██▄█▀ ▄▀██  ▀ █
+█ ▀ ▀▀▄▄██ ▀▄▄█▄ █ ▄ ██ ██ ▀▀▀ ▀▄ ▀█ ▄▀ █▀ ▀▀▀█  ▀  ▄█ ▄█▄█
+███████▄█▀██ ▀▄▄█▄█  ▀▀███▀ ▄▄▄ ▀█ █ ▄  ██▄█▄▀█▄█ ▄▄▄ █  ▀█
+█ ▄▄▄▄▄ █████▀ ▀█▄█▄▄▄  ▄ ▄ █▄█ ▀ ▀█▄    ▄█ ▀▀ █  █▄█ ▀ ▀██
+█ █   █ █▀██▄ ▀█▀██▀ ▄▀█ ▀▄▄▄▄  █▄▀▀▀▀ █ █▀▄▄▄█ █▄▄▄▄▄▄▄▀▄█
+█ █▄▄▄█ █ ▄█▀▄██    ▄▀█▀█▀ █▀██▀█▀▀▀▀█▄ █ ▄ ▀▀▀▄▄   ▄████▀█
+█▄▄▄▄▄▄▄█▄▄▄█▄▄█▄█▄█▄█▄▄█▄███████▄██▄███▄▄▄▄██▄█████▄▄█████
+
+2026-05-14 14:13:06: [36m[INFO] 💾 Loaded 5 active conversations from memory.[39m
+2026-05-14 14:13:16: ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █▀ ██▄▄▀█▀ ▀ ▀█▄  ▄▀▀ ▀▄▄ ▀█▄▄█▀█▀▄ █▄▄▄ ██ ▄▄▄▄▄ █
+█ █   █ █▀█ █▄ ███ ▀▄█▀▄▀▀▀██▄▀  ███▄▀▄▀▄█▀▄ ▄ ▄ ██ █   █ █
+█ █▄▄▄█ █▀▀▄█ ▀▄▄█▄ ▄ ▀▄▀ █ ▄▄▄  ▄█▀██▄▀▀▀ ▄ ▀▀▀▄██ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄█ ▀ █▄▀▄▀▄▀ █ █ █ █▄█ ▀▄█ ▀▄▀▄█ ▀ █ █▄▀▄█▄▄▄▄▄▄▄█
+█▄  ▄ ▀▄  ██▀█ ███▄  █▀▀▀   ▄   ▀█▀█▀▄ ▄▀▀█ ▄█▄█▀▀ █ ▀▄▀ ▀█
+█▀  █ ▀▄ █▀█▀▀▄   ▀ ▀▀▀ ▄▄▄█▀█ ▄▀▀ ▄▄█▀▄██ ▀▀▄▄▄█▀██  ▀▀ ▀█
+█▀▄▄   ▄▄█▄ ▄▄▄▄▀▄▀ ▀▄▀▄ ▀ ▄██▀█▄▀▄▄  ▀▄▀▀▄▀▄▀██▀▀▄▄█▀█ ▀██
+█ ▄ ███▄█ █ ██▀▄██▀▄▀█▀██▀ ▄ █▀ ▄▀▄▄▀█ ▀▀▀ █ █▄  ▀▄  ▀   ▀█
+█▀█  █ ▄ █▄█▀█▀▀█▄▀▄ ▄▀▀▀▀▀▀▀   ▀▀▀██▄▄▄▀▀▀  ██▄▀  █▀█▀  ▀█
+████▀█▀▄▄▀▀██▄▀██▄█▀ ██▀▄▀▀█▀ ▄  ▄▀▄  ▄▄▄█▄▀▄ ▄ ▄▀▀     ▄▀█
+█▄  ▀  ▄ ▄▀ ██▀█▄▀▀▄▄██▀▀▄▀▀▀▀█▀ ▀▄▄ ▄ █▀█▀ ▄█▄█▄▀▀▄██▄▀▀▀█
+█▀▀██▀▀▄ █▀   ██▄ ██▄█  ▀█▀   ▄▀▄█▄ ▄██  ▄████ █▄  ▄▀█▀▀▀▀█
+██  █▄█▄▄ ▀█▀█▄▄██  █▄▀▀▄▀██▀█▀ ▄  █ ▄▀█▀█▀ ▄███   ▄▀▀▄▀▄▄█
+█▀  ▄ ▄▄▄ ▀▀▄ ▄█▀█▄█ ▀▄██▄█ ▄▄▄ ▄ █▄▀ ▄█▀▀▄▄▄█    ▄▄▄ ▀ ▄██
+███▄  █▄█ █▀ ▀  ██▄▀ ▄▄█▀▀▀ █▄█  ██▄▄ ▄▄▀▀█ ▄▀█▄█ █▄█ ▄█▀▄█
+███ █▄ ▄ ▄█  ███▄▄   ▀▀██▀▄▄▄▄▄▄▄▀▄▀▀█ ▄ ▀▄▀█ ▄ █▄▄▄ ▄   ▀█
+███▄█▄▄▄▄▀▄▄ ▄█▄█▄▄▄ █▀▀▄▀▄▄██▀  █▀█▀▄▀██▀█ ▄▀▄▄█▀█▄▄▄█  ██
+█▄█▀▄▀▄▄█▄█▄ ▀██▀▀█ ▀▄ ▄▀█  ▄█▀ ▀▀▄ ▄ ██▀▄ ▀▀ ▄▀▄▄▄█▄█  ▄██
+█▄█  ▄ ▄▀▀▀▀▀█▀█▀█▄▄▀▀█▀▄ █▀▀█  █▀ ▄▄  ▄█▀▀▀▀▀▄▄▀▀█▄███ █ █
+██▀█▀ ▀▄▄█▄ █▀ ▄▀█▀ ▀ ▀ ▄ █▄▀█▄▄▀█▀▄ ▄ ██▀ ▀█▀▄ █▄▄▀▀█▀▀▄▄█
+██▄▄ ▀▄▄▀▄ █ █▀███▄ ▄▄▀█▄▀█▀█▄  ▀█▀█▀ ▀▄ ██▀▄█▄███ ▀███ ▀▀█
+█▄▀▄▄██▄ ██▄ ▄  ▀█▀  ▀▀ ▀ ▀▀▄▀▀▄▀█ ▀█ ▀▄▄▀ ▀▄█▄▀▀▄▄██ █ ███
+██▄█ ▄█▄▀ █▄▄ ▄▀▀▄▀ ▀█▀▄  ▄▄██ █ ███▄▄ ▄▀▀   ▀█▄▀█▄▀██▄█ ▀█
+█ ▀ ▀▀▄▄▄▀ █  ▄ █ ▄▄██▀█▄▀▀▄▄█▄ ▀▀█ ▀ ██ █▄▀▄▄▀▀█▄▀▀ ▄ ▀ ██
+███████▄█ █▄▄▄▀▄▄█  ▀▄▄▀▀ █ ▄▄▄ ▀█▄█ ▄▀▄██▄ ▄▀▄▄█ ▄▄▄ ▀█  █
+█ ▄▄▄▄▄ █▄█▀▄▀ ▄▄▄▄█▄▄▄▀ ▄▄ █▄█ ▀ ▀ ▄▄ ▄▄▄▄█▀▀▀▀  █▄█ ▄▀█▀█
+█ █   █ █ █▀███▄▄▀█▄▄██▀▀▄     ▄█▀▄█ ▄▀▄▀▀█  ████▄  ▄ ▀▀▄██
+█ █▄▄▄█ █ ▄▀▄█▄█▄ ▄█▄██▀▀█ █▀█▀██▄█ ██▀▄▄▀▄▀▀▀▄▄▄  █▄█  ███
+█▄▄▄▄▄▄▄█▄█▄▄█▄▄▄█▄▄████▄▄▄█▄▄█▄▄▄▄▄▄▄████▄████▄▄█▄█████▄██
+
+2026-05-14 14:14:16: ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █▄▄█▀ ▄▄███▄ ▀ ▄ ▄▄██ █ ▄▄█▀▀▄ ▀█ ▄ █  ▄ ██ ▄▄▄▄▄ █
+█ █   █ █ ▄▀█▀▀███  ▄▄ █ ▀ █▄█▀▀▀█▄▄  █▀ █▀██▄▀▄ ██ █   █ █
+█ █▄▄▄█ █▄  ████▀▀██ ▀▄  █▀ ▄▄▄ ▄█ █ █  ▀▀▀▀▄▀▄▀▄██ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄▀ ▀▄█ █▄█ ▀▄▀ ▀▄█ █▄█ ▀ ▀ █ ▀ ▀ █▄█▄▀▄█ █▄▄▄▄▄▄▄█
+█▄  ▄█▀▄▀ ▄ █▀▀█▄▄▄▀▀█  ▀▀█ ▄    █ ▄▀█▀▄  █▀███▄  ▄██▄▄ ▀ █
+█▄▄▀ █ ▄ █▄█▀  ▀█▄ ██ ▄▄█▀ █▄▀▀▀█ █▄█ ▀▀ ▀▀▄███▄▄▄ █ ▀ ▄▄ █
+██▄▀█ ▄▄▄▄ █  ▄ █▄█▄▀ █▄▄█  ▀▀█▀▄█▀█▄▄ ▀█▀▄█▄█▄███▄ ▀██▄▀▀█
+█ ▄██▄█▄▄▀▄▀█▄ ▄▄▄▄▄ █▄ █ ▀▄ ██▀█▀▄▄▀▄█▄  ▀ ▀▀ █▄▄█ ▀ ▀ ▀▀█
+█▄  █▀▀▄▄▄▀▀  █   ▀▀ █▄█ ██ ▄▄▀▄█ ▄  █ ▄▀▀▀▄█ ▀▀ █▄▄▄▀▀▄ ▄█
+█▀█▄██▀▄▄███▀ ▀▀█▄▀██ ▀▀▀▀▀▀█  █▄▄█▄▀▀▄   ▀▄▄▄▀  ██▄▄ ▄▄ ▀█
+█▄▄  ▀▀▄▀▄ ▀▄▀ ██ ▀███▄ ▀█ ▀  █ ████ █▀█ ▄▀▀▀▀█▄▄  █▄▄▄ ▀▀█
+█▄█▄ █▄▄  █ █ ▄▄▀▄▄  ▄█▄  █▀█▄█▄▀▄▀▄▄▀▀▀▄▀▄ ▀▄█▀██▀▀ █ ▄█ █
+█▀ ▄▀▀▄▄▀ ▀▄ ▄▀█▀█▄▄█ █▀ ██▀███▄▄▄▄█▄ ▀▀███▄▄▀▀██▄▀▀ ▀ █▄ █
+█ ▀ █ ▄▄▄ █▀▄▀▄█ ▄▄▄▀▀█▄██▄ ▄▄▄ █  █▀▀██  ▄█████▄ ▄▄▄ ▀▀███
+█ ▀▀  █▄█ ▀▄▀▄   ▀█▄▄█▀▀ ▄█ █▄█ ▄▄ ▀██▀▄▄█▀▄  ▀▀  █▄█ ▀▄███
+█▀█▄▄▄ ▄  ▀ ▄▀█▀ ▄▀▀ █▄ ▀█▄  ▄  ▄█  █▀   █▄▀█▄█▄█ ▄▄▄ ▄▄ ██
+██▄ ▀█▄▄▀▀██ █▄▄█▄▄▀▀▄  ▀ █▄█▄▀▀▀█ ▄█▀▀▄▄▄█▀▄██▄█▄▄▄█▄▄ ███
+█ ▀▄ ██▄▄█  ▀▄▀▄█▀▄████   ▄▀▄█ ██ ▀▄██▀▄█▄▀▄▀▄▀▄█▀ ▄ ▀▀█ ▄█
+███▄▄▄▄▄▀██▀▀▀▀▀██  ▀█▀▀ ▄█████ ▀▀▄▄▄   ▀███▄▀ ▄███ ▀█▀▄█▄█
+█▄ █ ▀▀▄██▀ █▀▀▄ ▄▀▀   ▀▄▀▄▄ ▄██ █ █▀▄▀██▀  █▀█▀███▀ ▄▀ █▄█
+█  ██▀ ▄██▄▄▄█▄  ▀██ █▄▀█▄▀   ▀██▄▄▀ ████▀▄▄ ▄▀▀▄ ▀▀ ▀ ██ █
+█ ▀   ▄▄ ▀▄█▄█ ████▄ ██ █▄██ ▀█ ▀▀▄█▀▄▀  ▀ ▀▄▀▄▀▀▀▄█▀ ▄▄█▀█
+█▄██▀██▄▄▀ ▀▄▀█▄ █▀▀ █ █ ▀▄▀▄▄ ▄▀█▄█▄█▀█   ▀▀▀█▄▀▀ ██▄▀ ▀▀█
+█ ▀ ▀▀▄▄▄ █▀▀█ ▀ ▄ ▀▀▄█▄█▄▄█▀▀███  ▄ ▀▄ ██▀█▄▀██▄▀▄▄ ▄ █▄▄█
+███████▄█ ▀▄  ▀ ▀▄█ ▄ ▀▀███ ▄▄▄ ▀▀ █▀ ▀▀▀▀▄█ █ █▀ ▄▄▄ █ ▄▄█
+█ ▄▄▄▄▄ ██▄ ▄ ▀▄▄█▄▄███  ██ █▄█  ▄ ▀█▄▀█  █▄▄▀  ▄ █▄█ ▄ ███
+█ █   █ █▀ ██▀▀█▀█▄▀ ▄ █ ▀▄  ▄  ▄▄▀▀▄███▄▀▄█▄▄ ▀▄ ▄    ▄ ▄█
+█ █▄▄▄█ █ ▀ ▀▀█▄   ▀▄▀▀▀█▀ ▀▀▀█▀█▀▀ ▀ ▀  ▀ █ ▄ ▄ ▄ ▀█▀▄▄█▀█
+█▄▄▄▄▄▄▄█▄██▄█▄▄█▄▄█▄█▄▄▄████████▄██▄█▄█▄▄▄▄▄█▄█▄▄██▄▄█▄███
+
+2026-05-14 14:14:44: [32m[SUCCESS] ✅ AdsVerse Aryan Bot is LIVE! 🚀[39m
+2026-05-14 14:14:44: [36m[INFO] Admin: +9977646156[39m
+2026-05-14 14:14:44: [36m[INFO] 🚀 Auto-Followup Scheduler started.[39m
+2026-05-14 14:14:48: [36m[INFO] 🔍 Follow-up check: 11 total leads.[39m
+2026-05-14 14:15:16: [31m[ERROR] ❌ Gemini call failed: Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent: [400 Bad Request] Invalid value at 'system_instruction' (type.googleapis.com/google.ai.generativelanguage.v1beta.Content), "
+You are Shivani (26), Senior Marketing Consultant at AdsVerse (Indore).
+Personality: Friendly, knowledgeable, slightly casual (Hinglish is fine), never pushy, never robotic, always helpful.
+Language: Match client's language — Hindi → reply Hindi, English → reply English, Hinglish → reply Hinglish.
+Tone: Like a knowledgeable friend who works in marketing — not a salesperson.
+WhatsApp style: Short paragraphs, use emojis sparingly, never send walls of text.
+
+AdsVerse Knowledge Base:
+
+Company: AdsVerse
+Location: Vijay Nagar, Indore, Madhya Pradesh
+Website: adsverse.in
+Email: hello@adsverse.in
+Tagline: "Automate. Elevate. Dominate."
+USP: AI-first digital marketing agency — only agency in Indore combining automation + performance marketing
+Stats: 250+ clients, 94% retention rate, 4.5x average marketing ROI, 3x average ROAS
+
+Services & Pricing:
+
+SEO:
+- Local SEO → ₹9,600/month (Google Business Profile, 'near me' rankings, citations)
+- On-Page + Off-Page SEO → ₹14,400/month (complete ranking package)
+- GEO (Generative Engine Optimization) → ₹18,000/month (rank in Google AI Overviews, ChatGPT, Perplexity — new in 2026)
+- E-Commerce SEO → ₹23,000/month (Amazon, Flipkart, Shopify)
+- Technical SEO Audit → ₹12,000 one-time
+- Keyword Research & Strategy → ₹6,000 one-time
+
+Paid Ads (PPC):
+- Google Search Ads (intent-based, buyers ready to convert)
+- Google Display Ads (brand awareness)
+- Google Shopping Ads (e-commerce products)
+- YouTube Ads (in-stream, bumper, discovery)
+- Facebook & Instagram Ads (lead gen, traffic, conversions)
+- LinkedIn Ads (B2B targeting, InMail, lead forms)
+- Remarketing Campaigns (re-engage past visitors)
+- Note: Paid ads pricing is custom per client budget — always say "free strategy call mein discuss karte hain"
+
+Social Media Management:
+- Facebook, Instagram, LinkedIn, Twitter(X), YouTube
+- Full account management, content creation, ads
+- Influencer marketing
+- Note: Pricing custom — direct to contact page
+
+Web Development:
+- Business Website (5-10 pages with CMS)
+- Portfolio Website
+- E-Commerce Website (Shopify/WooCommerce, full payment gateway)
+- Landing Pages (high-converting single-page funnels)
+- UI/UX Design (Figma, wireframes, prototypes)
+- Website Maintenance (monthly backups, security, updates)
+- Website Redesigning
+
+AI & Automation:
+- WhatsApp AI Bots (like this one — Gemini-powered, 24/7 lead capture)
+- n8n Workflow Automation (CRM integrations, lead routing, notifications)
+- Custom AI Chatbots for websites
+- Email Automation sequences
+- CRM Setup and integration
+
+Content Marketing:
+- Blog Writing (SEO-optimized)
+- Website Copywriting (homepage, services, landing pages)
+- Ad Copywriting (hooks, CTAs)
+- Social Media Content Calendar
+- Reels & YouTube Shorts (script + editing)
+- Video Content Production
+
+Branding & Strategy:
+- Logo Design
+- Full Branding Kit (colors, fonts, icons, usage guide)
+- Brand Strategy (positioning, USP, messaging)
+- Market Research
+
+ORM (Online Reputation Management):
+- Google Reviews strategy
+- Negative review handling
+- Brand reputation building
+
+Process:
+1. Free Strategy Call (no obligation) → adsverse.in/contact
+2. Custom proposal within 24 hours
+3. Onboarding + execution
+4. Monthly reports + optimization
+
+Guarantee:
+- No long-term contracts
+- Real-time reporting
+- ROI-focused strategy
+- 24/7 dedicated support claim
+
+
+Current Conversation Stage: GREETING
+Stage Notes: 
+
+Stage Specific Instructions:
+
+User ka pehla message hai. Warm, friendly welcome do.
+Apna naam batao (Shivani), AdsVerse ka briefly mention karo.
+Seedha poochho: "Aapka kya kaam hai ya kis service mein interest hai?"
+Koi information mat dena abhi — pehle samjho kya chahiye.
+
+STRICT RULE: Focus on the current stage and move toward CLOSING. If the user provides a budget or specific need, use it. If they object, handle it as per the instructions.
+" [{"@type":"type.googleapis.com/google.rpc.BadRequest","fieldViolations":[{"field":"system_instruction","description":"Invalid value at 'system_instruction' (type.googleapis.com/google.ai.generativelanguage.v1beta.Content), \"\nYou are Shivani (26), Senior Marketing Consultant at AdsVerse (Indore).\nPersonality: Friendly, knowledgeable, slightly casual (Hinglish is fine), never pushy, never robotic, always helpful.\nLanguage: Match client's language — Hindi → reply Hindi, English → reply English, Hinglish → reply Hinglish.\nTone: Like a knowledgeable friend who works in marketing — not a salesperson.\nWhatsApp style: Short paragraphs, use emojis sparingly, never send walls of text.\n\nAdsVerse Knowledge Base:\n\nCompany: AdsVerse\nLocation: Vijay Nagar, Indore, Madhya Pradesh\nWebsite: adsverse.in\nEmail: hello@adsverse.in\nTagline: \"Automate. Elevate. Dominate.\"\nUSP: AI-first digital marketing agency — only agency in Indore combining automation + performance marketing\nStats: 250+ clients, 94% retention rate, 4.5x average marketing ROI, 3x average ROAS\n\nServices & Pricing:\n\nSEO:\n- Local SEO → ₹9,600/month (Google Business Profile, 'near me' rankings, citations)\n- On-Page + Off-Page SEO → ₹14,400/month (complete ranking package)\n- GEO (Generative Engine Optimization) → ₹18,000/month (rank in Google AI Overviews, ChatGPT, Perplexity — new in 2026)\n- E-Commerce SEO → ₹23,000/month (Amazon, Flipkart, Shopify)\n- Technical SEO Audit → ₹12,000 one-time\n- Keyword Research & Strategy → ₹6,000 one-time\n\nPaid Ads (PPC):\n- Google Search Ads (intent-based, buyers ready to convert)\n- Google Display Ads (brand awareness)\n- Google Shopping Ads (e-commerce products)\n- YouTube Ads (in-stream, bumper, discovery)\n- Facebook & Instagram Ads (lead gen, traffic, conversions)\n- LinkedIn Ads (B2B targeting, InMail, lead forms)\n- Remarketing Campaigns (re-engage past visitors)\n- Note: Paid ads pricing is custom per client budget — always say \"free strategy call mein discuss karte hain\"\n\nSocial Media Management:\n- Facebook, Instagram, LinkedIn, Twitter(X), YouTube\n- Full account management, content creation, ads\n- Influencer marketing\n- Note: Pricing custom — direct to contact page\n\nWeb Development:\n- Business Website (5-10 pages with CMS)\n- Portfolio Website\n- E-Commerce Website (Shopify/WooCommerce, full payment gateway)\n- Landing Pages (high-converting single-page funnels)\n- UI/UX Design (Figma, wireframes, prototypes)\n- Website Maintenance (monthly backups, security, updates)\n- Website Redesigning\n\nAI & Automation:\n- WhatsApp AI Bots (like this one — Gemini-powered, 24/7 lead capture)\n- n8n Workflow Automation (CRM integrations, lead routing, notifications)\n- Custom AI Chatbots for websites\n- Email Automation sequences\n- CRM Setup and integration\n\nContent Marketing:\n- Blog Writing (SEO-optimized)\n- Website Copywriting (homepage, services, landing pages)\n- Ad Copywriting (hooks, CTAs)\n- Social Media Content Calendar\n- Reels & YouTube Shorts (script + editing)\n- Video Content Production\n\nBranding & Strategy:\n- Logo Design\n- Full Branding Kit (colors, fonts, icons, usage guide)\n- Brand Strategy (positioning, USP, messaging)\n- Market Research\n\nORM (Online Reputation Management):\n- Google Reviews strategy\n- Negative review handling\n- Brand reputation building\n\nProcess:\n1. Free Strategy Call (no obligation) → adsverse.in/contact\n2. Custom proposal within 24 hours\n3. Onboarding + execution\n4. Monthly reports + optimization\n\nGuarantee:\n- No long-term contracts\n- Real-time reporting\n- ROI-focused strategy\n- 24/7 dedicated support claim\n\n\nCurrent Conversation Stage: GREETING\nStage Notes: \n\nStage Specific Instructions:\n\nUser ka pehla message hai. Warm, friendly welcome do.\nApna naam batao (Shivani), AdsVerse ka briefly mention karo.\nSeedha poochho: \"Aapka kya kaam hai ya kis service mein interest hai?\"\nKoi information mat dena abhi — pehle samjho kya chahiye.\n\nSTRICT RULE: Focus on the current stage and move toward CLOSING. If the user provides a budget or specific need, use it. If they object, handle it as per the instructions.\n\""}]}]
+    at handleResponseNotOk (file:///D:/THEME/what/node_modules/@google/generative-ai/dist/index.mjs:432:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async makeRequest (file:///D:/THEME/what/node_modules/@google/generative-ai/dist/index.mjs:401:9)
+    at async generateContent (file:///D:/THEME/what/node_modules/@google/generative-ai/dist/index.mjs:865:22)
+    at async ChatSession.sendMessage (file:///D:/THEME/what/node_modules/@google/generative-ai/dist/index.mjs:1208:9)
+    at async callGemini (file:///D:/THEME/what/index.js:56:24)
+    at async Client.handleIncomingMessage (file:///D:/THEME/what/index.js:216:27)[39m
+2026-05-14 14:15:16: [31m[ERROR] ❌ Gemini call failed: Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent: [400 Bad Request] Invalid value at 'system_instruction' (type.googleapis.com/google.ai.generativelanguage.v1beta.Content), "
+You are Shivani (26), Senior Marketing Consultant at AdsVerse (Indore).
+Personality: Friendly, knowledgeable, slightly casual (Hinglish is fine), never pushy, never robotic, always helpful.
+Language: Match client's language — Hindi → reply Hindi, English → reply English, Hinglish → reply Hinglish.
+Tone: Like a knowledgeable friend who works in marketing — not a salesperson.
+WhatsApp style: Short paragraphs, use emojis sparingly, never send walls of text.
+
+AdsVerse Knowledge Base:
+
+Company: AdsVerse
+Location: Vijay Nagar, Indore, Madhya Pradesh
+Website: adsverse.in
+Email: hello@adsverse.in
+Tagline: "Automate. Elevate. Dominate."
+USP: AI-first digital marketing agency — only agency in Indore combining automation + performance marketing
+Stats: 250+ clients, 94% retention rate, 4.5x average marketing ROI, 3x average ROAS
+
+Services & Pricing:
+
+SEO:
+- Local SEO → ₹9,600/month (Google Business Profile, 'near me' rankings, citations)
+- On-Page + Off-Page SEO → ₹14,400/month (complete ranking package)
+- GEO (Generative Engine Optimization) → ₹18,000/month (rank in Google AI Overviews, ChatGPT, Perplexity — new in 2026)
+- E-Commerce SEO → ₹23,000/month (Amazon, Flipkart, Shopify)
+- Technical SEO Audit → ₹12,000 one-time
+- Keyword Research & Strategy → ₹6,000 one-time
+
+Paid Ads (PPC):
+- Google Search Ads (intent-based, buyers ready to convert)
+- Google Display Ads (brand awareness)
+- Google Shopping Ads (e-commerce products)
+- YouTube Ads (in-stream, bumper, discovery)
+- Facebook & Instagram Ads (lead gen, traffic, conversions)
+- LinkedIn Ads (B2B targeting, InMail, lead forms)
+- Remarketing Campaigns (re-engage past visitors)
+- Note: Paid ads pricing is custom per client budget — always say "free strategy call mein discuss karte hain"
+
+Social Media Management:
+- Facebook, Instagram, LinkedIn, Twitter(X), YouTube
+- Full account management, content creation, ads
+- Influencer marketing
+- Note: Pricing custom — direct to contact page
+
+Web Development:
+- Business Website (5-10 pages with CMS)
+- Portfolio Website
+- E-Commerce Website (Shopify/WooCommerce, full payment gateway)
+- Landing Pages (high-converting single-page funnels)
+- UI/UX Design (Figma, wireframes, prototypes)
+- Website Maintenance (monthly backups, security, updates)
+- Website Redesigning
+
+AI & Automation:
+- WhatsApp AI Bots (like this one — Gemini-powered, 24/7 lead capture)
+- n8n Workflow Automation (CRM integrations, lead routing, notifications)
+- Custom AI Chatbots for websites
+- Email Automation sequences
+- CRM Setup and integration
+
+Content Marketing:
+- Blog Writing (SEO-optimized)
+- Website Copywriting (homepage, services, landing pages)
+- Ad Copywriting (hooks, CTAs)
+- Social Media Content Calendar
+- Reels & YouTube Shorts (script + editing)
+- Video Content Production
+
+Branding & Strategy:
+- Logo Design
+- Full Branding Kit (colors, fonts, icons, usage guide)
+- Brand Strategy (positioning, USP, messaging)
+- Market Research
+
+ORM (Online Reputation Management):
+- Google Reviews strategy
+- Negative review handling
+- Brand reputation building
+
+Process:
+1. Free Strategy Call (no obligation) → adsverse.in/contact
+2. Custom proposal within 24 hours
+3. Onboarding + execution
+4. Monthly reports + optimization
+
+Guarantee:
+- No long-term contracts
+- Real-time reporting
+- ROI-focused strategy
+- 24/7 dedicated support claim
+
+
+Current Conversation Stage: GREETING
+Stage Notes: 
+
+Stage Specific Instructions:
+
+User ka pehla message hai. Warm, friendly welcome do.
+Apna naam batao (Shivani), AdsVerse ka briefly mention karo.
+Seedha poochho: "Aapka kya kaam hai ya kis service mein interest hai?"
+Koi information mat dena abhi — pehle samjho kya chahiye.
+
+STRICT RULE: Focus on the current stage and move toward CLOSING. If the user provides a budget or specific need, use it. If they object, handle it as per the instructions.
+" [{"@type":"type.googleapis.com/google.rpc.BadRequest","fieldViolations":[{"field":"system_instruction","description":"Invalid value at 'system_instruction' (type.googleapis.com/google.ai.generativelanguage.v1beta.Content), \"\nYou are Shivani (26), Senior Marketing Consultant at AdsVerse (Indore).\nPersonality: Friendly, knowledgeable, slightly casual (Hinglish is fine), never pushy, never robotic, always helpful.\nLanguage: Match client's language — Hindi → reply Hindi, English → reply English, Hinglish → reply Hinglish.\nTone: Like a knowledgeable friend who works in marketing — not a salesperson.\nWhatsApp style: Short paragraphs, use emojis sparingly, never send walls of text.\n\nAdsVerse Knowledge Base:\n\nCompany: AdsVerse\nLocation: Vijay Nagar, Indore, Madhya Pradesh\nWebsite: adsverse.in\nEmail: hello@adsverse.in\nTagline: \"Automate. Elevate. Dominate.\"\nUSP: AI-first digital marketing agency — only agency in Indore combining automation + performance marketing\nStats: 250+ clients, 94% retention rate, 4.5x average marketing ROI, 3x average ROAS\n\nServices & Pricing:\n\nSEO:\n- Local SEO → ₹9,600/month (Google Business Profile, 'near me' rankings, citations)\n- On-Page + Off-Page SEO → ₹14,400/month (complete ranking package)\n- GEO (Generative Engine Optimization) → ₹18,000/month (rank in Google AI Overviews, ChatGPT, Perplexity — new in 2026)\n- E-Commerce SEO → ₹23,000/month (Amazon, Flipkart, Shopify)\n- Technical SEO Audit → ₹12,000 one-time\n- Keyword Research & Strategy → ₹6,000 one-time\n\nPaid Ads (PPC):\n- Google Search Ads (intent-based, buyers ready to convert)\n- Google Display Ads (brand awareness)\n- Google Shopping Ads (e-commerce products)\n- YouTube Ads (in-stream, bumper, discovery)\n- Facebook & Instagram Ads (lead gen, traffic, conversions)\n- LinkedIn Ads (B2B targeting, InMail, lead forms)\n- Remarketing Campaigns (re-engage past visitors)\n- Note: Paid ads pricing is custom per client budget — always say \"free strategy call mein discuss karte hain\"\n\nSocial Media Management:\n- Facebook, Instagram, LinkedIn, Twitter(X), YouTube\n- Full account management, content creation, ads\n- Influencer marketing\n- Note: Pricing custom — direct to contact page\n\nWeb Development:\n- Business Website (5-10 pages with CMS)\n- Portfolio Website\n- E-Commerce Website (Shopify/WooCommerce, full payment gateway)\n- Landing Pages (high-converting single-page funnels)\n- UI/UX Design (Figma, wireframes, prototypes)\n- Website Maintenance (monthly backups, security, updates)\n- Website Redesigning\n\nAI & Automation:\n- WhatsApp AI Bots (like this one — Gemini-powered, 24/7 lead capture)\n- n8n Workflow Automation (CRM integrations, lead routing, notifications)\n- Custom AI Chatbots for websites\n- Email Automation sequences\n- CRM Setup and integration\n\nContent Marketing:\n- Blog Writing (SEO-optimized)\n- Website Copywriting (homepage, services, landing pages)\n- Ad Copywriting (hooks, CTAs)\n- Social Media Content Calendar\n- Reels & YouTube Shorts (script + editing)\n- Video Content Production\n\nBranding & Strategy:\n- Logo Design\n- Full Branding Kit (colors, fonts, icons, usage guide)\n- Brand Strategy (positioning, USP, messaging)\n- Market Research\n\nORM (Online Reputation Management):\n- Google Reviews strategy\n- Negative review handling\n- Brand reputation building\n\nProcess:\n1. Free Strategy Call (no obligation) → adsverse.in/contact\n2. Custom proposal within 24 hours\n3. Onboarding + execution\n4. Monthly reports + optimization\n\nGuarantee:\n- No long-term contracts\n- Real-time reporting\n- ROI-focused strategy\n- 24/7 dedicated support claim\n\n\nCurrent Conversation Stage: GREETING\nStage Notes: \n\nStage Specific Instructions:\n\nUser ka pehla message hai. Warm, friendly welcome do.\nApna naam batao (Shivani), AdsVerse ka briefly mention karo.\nSeedha poochho: \"Aapka kya kaam hai ya kis service mein interest hai?\"\nKoi information mat dena abhi — pehle samjho kya chahiye.\n\nSTRICT RULE: Focus on the current stage and move toward CLOSING. If the user provides a budget or specific need, use it. If they object, handle it as per the instructions.\n\""}]}]
+    at handleResponseNotOk (file:///D:/THEME/what/node_modules/@google/generative-ai/dist/index.mjs:432:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async makeRequest (file:///D:/THEME/what/node_modules/@google/generative-ai/dist/index.mjs:401:9)
+    at async generateContent (file:///D:/THEME/what/node_modules/@google/generative-ai/dist/index.mjs:865:22)
+    at async ChatSession.sendMessage (file:///D:/THEME/what/node_modules/@google/generative-ai/dist/index.mjs:1208:9)
+    at async callGemini (file:///D:/THEME/what/index.js:56:24)
+    at async Client.handleIncomingMessage (file:///D:/THEME/what/index.js:216:27)[39m
+2026-05-14 14:15:18: [31m[ERROR] ❌ Gemini call failed: Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent: [400 Bad Request] Invalid value at 'system_instruction' (type.googleapis.com/google.ai.generativelanguage.v1beta.Content), "
+You are Shivani (26), Senior Marketing Consultant at AdsVerse (Indore).
+Personality: Friendly, knowledgeable, slightly casual (Hinglish is fine), never pushy, never robotic, always helpful.
+Language: Match client's language — Hindi → reply Hindi, English → reply English, Hinglish → reply Hinglish.
+Tone: Like a knowledgeable friend who works in marketing — not a salesperson.
+WhatsApp style: Short paragraphs, use emojis sparingly, never send walls of text.
+
+AdsVerse Knowledge Base:
+
+Company: AdsVerse
+Location: Vijay Nagar, Indore, Madhya Pradesh
+Website: adsverse.in
+Email: hello@adsverse.in
+Tagline: "Automate. Elevate. Dominate."
+USP: AI-first digital marketing agency — only agency in Indore combining automation + performance marketing
+Stats: 250+ clients, 94% retention rate, 4.5x average marketing ROI, 3x average ROAS
+
+Services & Pricing:
+
+SEO:
+- Local SEO → ₹9,600/month (Google Business Profile, 'near me' rankings, citations)
+- On-Page + Off-Page SEO → ₹14,400/month (complete ranking package)
+- GEO (Generative Engine Optimization) → ₹18,000/month (rank in Google AI Overviews, ChatGPT, Perplexity — new in 2026)
+- E-Commerce SEO → ₹23,000/month (Amazon, Flipkart, Shopify)
+- Technical SEO Audit → ₹12,000 one-time
+- Keyword Research & Strategy → ₹6,000 one-time
+
+Paid Ads (PPC):
+- Google Search Ads (intent-based, buyers ready to convert)
+- Google Display Ads (brand awareness)
+- Google Shopping Ads (e-commerce products)
+- YouTube Ads (in-stream, bumper, discovery)
+- Facebook & Instagram Ads (lead gen, traffic, conversions)
+- LinkedIn Ads (B2B targeting, InMail, lead forms)
+- Remarketing Campaigns (re-engage past visitors)
+- Note: Paid ads pricing is custom per client budget — always say "free strategy call mein discuss karte hain"
+
+Social Media Management:
+- Facebook, Instagram, LinkedIn, Twitter(X), YouTube
+- Full account management, content creation, ads
+- Influencer marketing
+- Note: Pricing custom — direct to contact page
+
+Web Development:
+- Business Website (5-10 pages with CMS)
+- Portfolio Website
+- E-Commerce Website (Shopify/WooCommerce, full payment gateway)
+- Landing Pages (high-converting single-page funnels)
+- UI/UX Design (Figma, wireframes, prototypes)
+- Website Maintenance (monthly backups, security, updates)
+- Website Redesigning
+
+AI & Automation:
+- WhatsApp AI Bots (like this one — Gemini-powered, 24/7 lead capture)
+- n8n Workflow Automation (CRM integrations, lead routing, notifications)
+- Custom AI Chatbots for websites
+- Email Automation sequences
+- CRM Setup and integration
+
+Content Marketing:
+- Blog Writing (SEO-optimized)
+- Website Copywriting (homepage, services, landing pages)
+- Ad Copywriting (hooks, CTAs)
+- Social Media Content Calendar
+- Reels & YouTube Shorts (script + editing)
+- Video Content Production
+
+Branding & Strategy:
+- Logo Design
+- Full Branding Kit (colors, fonts, icons, usage guide)
+- Brand Strategy (positioning, USP, messaging)
+- Market Research
+
+ORM (Online Reputation Management):
+- Google Reviews strategy
+- Negative review handling
+- Brand reputation building
+
+Process:
+1. Free Strategy Call (no obligation) → adsverse.in/contact
+2. Custom proposal within 24 hours
+3. Onboarding + execution
+4. Monthly reports + optimization
+
+Guarantee:
+- No long-term contracts
+- Real-time reporting
+- ROI-focused strategy
+- 24/7 dedicated support claim
+
+
+Current Conversation Stage: GREETING
+Stage Notes: 
+
+Stage Specific Instructions:
+
+User ka pehla message hai. Warm, friendly welcome do.
+Apna naam batao (Shivani), AdsVerse ka briefly mention karo.
+Seedha poochho: "Aapka kya kaam hai ya kis service mein interest hai?"
+Koi information mat dena abhi — pehle samjho kya chahiye.
+
+STRICT RULE: Focus on the current stage and move toward CLOSING. If the user provides a budget or specific need, use it. If they object, handle it as per the instructions.
+" [{"@type":"type.googleapis.com/google.rpc.BadRequest","fieldViolations":[{"field":"system_instruction","description":"Invalid value at 'system_instruction' (type.googleapis.com/google.ai.generativelanguage.v1beta.Content), \"\nYou are Shivani (26), Senior Marketing Consultant at AdsVerse (Indore).\nPersonality: Friendly, knowledgeable, slightly casual (Hinglish is fine), never pushy, never robotic, always helpful.\nLanguage: Match client's language — Hindi → reply Hindi, English → reply English, Hinglish → reply Hinglish.\nTone: Like a knowledgeable friend who works in marketing — not a salesperson.\nWhatsApp style: Short paragraphs, use emojis sparingly, never send walls of text.\n\nAdsVerse Knowledge Base:\n\nCompany: AdsVerse\nLocation: Vijay Nagar, Indore, Madhya Pradesh\nWebsite: adsverse.in\nEmail: hello@adsverse.in\nTagline: \"Automate. Elevate. Dominate.\"\nUSP: AI-first digital marketing agency — only agency in Indore combining automation + performance marketing\nStats: 250+ clients, 94% retention rate, 4.5x average marketing ROI, 3x average ROAS\n\nServices & Pricing:\n\nSEO:\n- Local SEO → ₹9,600/month (Google Business Profile, 'near me' rankings, citations)\n- On-Page + Off-Page SEO → ₹14,400/month (complete ranking package)\n- GEO (Generative Engine Optimization) → ₹18,000/month (rank in Google AI Overviews, ChatGPT, Perplexity — new in 2026)\n- E-Commerce SEO → ₹23,000/month (Amazon, Flipkart, Shopify)\n- Technical SEO Audit → ₹12,000 one-time\n- Keyword Research & Strategy → ₹6,000 one-time\n\nPaid Ads (PPC):\n- Google Search Ads (intent-based, buyers ready to convert)\n- Google Display Ads (brand awareness)\n- Google Shopping Ads (e-commerce products)\n- YouTube Ads (in-stream, bumper, discovery)\n- Facebook & Instagram Ads (lead gen, traffic, conversions)\n- LinkedIn Ads (B2B targeting, InMail, lead forms)\n- Remarketing Campaigns (re-engage past visitors)\n- Note: Paid ads pricing is custom per client budget — always say \"free strategy call mein discuss karte hain\"\n\nSocial Media Management:\n- Facebook, Instagram, LinkedIn, Twitter(X), YouTube\n- Full account management, content creation, ads\n- Influencer marketing\n- Note: Pricing custom — direct to contact page\n\nWeb Development:\n- Business Website (5-10 pages with CMS)\n- Portfolio Website\n- E-Commerce Website (Shopify/WooCommerce, full payment gateway)\n- Landing Pages (high-converting single-page funnels)\n- UI/UX Design (Figma, wireframes, prototypes)\n- Website Maintenance (monthly backups, security, updates)\n- Website Redesigning\n\nAI & Automation:\n- WhatsApp AI Bots (like this one — Gemini-powered, 24/7 lead capture)\n- n8n Workflow Automation (CRM integrations, lead routing, notifications)\n- Custom AI Chatbots for websites\n- Email Automation sequences\n- CRM Setup and integration\n\nContent Marketing:\n- Blog Writing (SEO-optimized)\n- Website Copywriting (homepage, services, landing pages)\n- Ad Copywriting (hooks, CTAs)\n- Social Media Content Calendar\n- Reels & YouTube Shorts (script + editing)\n- Video Content Production\n\nBranding & Strategy:\n- Logo Design\n- Full Branding Kit (colors, fonts, icons, usage guide)\n- Brand Strategy (positioning, USP, messaging)\n- Market Research\n\nORM (Online Reputation Management):\n- Google Reviews strategy\n- Negative review handling\n- Brand reputation building\n\nProcess:\n1. Free Strategy Call (no obligation) → adsverse.in/contact\n2. Custom proposal within 24 hours\n3. Onboarding + execution\n4. Monthly reports + optimization\n\nGuarantee:\n- No long-term contracts\n- Real-time reporting\n- ROI-focused strategy\n- 24/7 dedicated support claim\n\n\nCurrent Conversation Stage: GREETING\nStage Notes: \n\nStage Specific Instructions:\n\nUser ka pehla message hai. Warm, friendly welcome do.\nApna naam batao (Shivani), AdsVerse ka briefly mention karo.\nSeedha poochho: \"Aapka kya kaam hai ya kis service mein interest hai?\"\nKoi information mat dena abhi — pehle samjho kya chahiye.\n\nSTRICT RULE: Focus on the current stage and move toward CLOSING. If the user provides a budget or specific need, use it. If they object, handle it as per the instructions.\n\""}]}]
+    at handleResponseNotOk (file:///D:/THEME/what/node_modules/@google/generative-ai/dist/index.mjs:432:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async makeRequest (file:///D:/THEME/what/node_modules/@google/generative-ai/dist/index.mjs:401:9)
+    at async generateContent (file:///D:/THEME/what/node_modules/@google/generative-ai/dist/index.mjs:865:22)
+    at async ChatSession.sendMessage (file:///D:/THEME/what/node_modules/@google/generative-ai/dist/index.mjs:1208:9)
+    at async callGemini (file:///D:/THEME/what/index.js:56:24)
+    at async Client.handleIncomingMessage (file:///D:/THEME/what/index.js:216:27)[39m
+2026-05-14 14:15:18: [31m[ERROR] ❌ Gemini call failed: Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent: [400 Bad Request] Invalid value at 'system_instruction' (type.googleapis.com/google.ai.generativelanguage.v1beta.Content), "
+You are Shivani (26), Senior Marketing Consultant at AdsVerse (Indore).
+Personality: Friendly, knowledgeable, slightly casual (Hinglish is fine), never pushy, never robotic, always helpful.
+Language: Match client's language — Hindi → reply Hindi, English → reply English, Hinglish → reply Hinglish.
+Tone: Like a knowledgeable friend who works in marketing — not a salesperson.
+WhatsApp style: Short paragraphs, use emojis sparingly, never send walls of text.
+
+AdsVerse Knowledge Base:
+
+Company: AdsVerse
+Location: Vijay Nagar, Indore, Madhya Pradesh
+Website: adsverse.in
+Email: hello@adsverse.in
+Tagline: "Automate. Elevate. Dominate."
+USP: AI-first digital marketing agency — only agency in Indore combining automation + performance marketing
+Stats: 250+ clients, 94% retention rate, 4.5x average marketing ROI, 3x average ROAS
+
+Services & Pricing:
+
+SEO:
+- Local SEO → ₹9,600/month (Google Business Profile, 'near me' rankings, citations)
+- On-Page + Off-Page SEO → ₹14,400/month (complete ranking package)
+- GEO (Generative Engine Optimization) → ₹18,000/month (rank in Google AI Overviews, ChatGPT, Perplexity — new in 2026)
+- E-Commerce SEO → ₹23,000/month (Amazon, Flipkart, Shopify)
+- Technical SEO Audit → ₹12,000 one-time
+- Keyword Research & Strategy → ₹6,000 one-time
+
+Paid Ads (PPC):
+- Google Search Ads (intent-based, buyers ready to convert)
+- Google Display Ads (brand awareness)
+- Google Shopping Ads (e-commerce products)
+- YouTube Ads (in-stream, bumper, discovery)
+- Facebook & Instagram Ads (lead gen, traffic, conversions)
+- LinkedIn Ads (B2B targeting, InMail, lead forms)
+- Remarketing Campaigns (re-engage past visitors)
+- Note: Paid ads pricing is custom per client budget — always say "free strategy call mein discuss karte hain"
+
+Social Media Management:
+- Facebook, Instagram, LinkedIn, Twitter(X), YouTube
+- Full account management, content creation, ads
+- Influencer marketing
+- Note: Pricing custom — direct to contact page
+
+Web Development:
+- Business Website (5-10 pages with CMS)
+- Portfolio Website
+- E-Commerce Website (Shopify/WooCommerce, full payment gateway)
+- Landing Pages (high-converting single-page funnels)
+- UI/UX Design (Figma, wireframes, prototypes)
+- Website Maintenance (monthly backups, security, updates)
+- Website Redesigning
+
+AI & Automation:
+- WhatsApp AI Bots (like this one — Gemini-powered, 24/7 lead capture)
+- n8n Workflow Automation (CRM integrations, lead routing, notifications)
+- Custom AI Chatbots for websites
+- Email Automation sequences
+- CRM Setup and integration
+
+Content Marketing:
+- Blog Writing (SEO-optimized)
+- Website Copywriting (homepage, services, landing pages)
+- Ad Copywriting (hooks, CTAs)
+- Social Media Content Calendar
+- Reels & YouTube Shorts (script + editing)
+- Video Content Production
+
+Branding & Strategy:
+- Logo Design
+- Full Branding Kit (colors, fonts, icons, usage guide)
+- Brand Strategy (positioning, USP, messaging)
+- Market Research
+
+ORM (Online Reputation Management):
+- Google Reviews strategy
+- Negative review handling
+- Brand reputation building
+
+Process:
+1. Free Strategy Call (no obligation) → adsverse.in/contact
+2. Custom proposal within 24 hours
+3. Onboarding + execution
+4. Monthly reports + optimization
+
+Guarantee:
+- No long-term contracts
+- Real-time reporting
+- ROI-focused strategy
+- 24/7 dedicated support claim
+
+
+Current Conversation Stage: GREETING
+Stage Notes: 
+
+Stage Specific Instructions:
+
+User ka pehla message hai. Warm, friendly welcome do.
+Apna naam batao (Shivani), AdsVerse ka briefly mention karo.
+Seedha poochho: "Aapka kya kaam hai ya kis service mein interest hai?"
+Koi information mat dena abhi — pehle samjho kya chahiye.
+
+STRICT RULE: Focus on the current stage and move toward CLOSING. If the user provides a budget or specific need, use it. If they object, handle it as per the instructions.
+" [{"@type":"type.googleapis.com/google.rpc.BadRequest","fieldViolations":[{"field":"system_instruction","description":"Invalid value at 'system_instruction' (type.googleapis.com/google.ai.generativelanguage.v1beta.Content), \"\nYou are Shivani (26), Senior Marketing Consultant at AdsVerse (Indore).\nPersonality: Friendly, knowledgeable, slightly casual (Hinglish is fine), never pushy, never robotic, always helpful.\nLanguage: Match client's language — Hindi → reply Hindi, English → reply English, Hinglish → reply Hinglish.\nTone: Like a knowledgeable friend who works in marketing — not a salesperson.\nWhatsApp style: Short paragraphs, use emojis sparingly, never send walls of text.\n\nAdsVerse Knowledge Base:\n\nCompany: AdsVerse\nLocation: Vijay Nagar, Indore, Madhya Pradesh\nWebsite: adsverse.in\nEmail: hello@adsverse.in\nTagline: \"Automate. Elevate. Dominate.\"\nUSP: AI-first digital marketing agency — only agency in Indore combining automation + performance marketing\nStats: 250+ clients, 94% retention rate, 4.5x average marketing ROI, 3x average ROAS\n\nServices & Pricing:\n\nSEO:\n- Local SEO → ₹9,600/month (Google Business Profile, 'near me' rankings, citations)\n- On-Page + Off-Page SEO → ₹14,400/month (complete ranking package)\n- GEO (Generative Engine Optimization) → ₹18,000/month (rank in Google AI Overviews, ChatGPT, Perplexity — new in 2026)\n- E-Commerce SEO → ₹23,000/month (Amazon, Flipkart, Shopify)\n- Technical SEO Audit → ₹12,000 one-time\n- Keyword Research & Strategy → ₹6,000 one-time\n\nPaid Ads (PPC):\n- Google Search Ads (intent-based, buyers ready to convert)\n- Google Display Ads (brand awareness)\n- Google Shopping Ads (e-commerce products)\n- YouTube Ads (in-stream, bumper, discovery)\n- Facebook & Instagram Ads (lead gen, traffic, conversions)\n- LinkedIn Ads (B2B targeting, InMail, lead forms)\n- Remarketing Campaigns (re-engage past visitors)\n- Note: Paid ads pricing is custom per client budget — always say \"free strategy call mein discuss karte hain\"\n\nSocial Media Management:\n- Facebook, Instagram, LinkedIn, Twitter(X), YouTube\n- Full account management, content creation, ads\n- Influencer marketing\n- Note: Pricing custom — direct to contact page\n\nWeb Development:\n- Business Website (5-10 pages with CMS)\n- Portfolio Website\n- E-Commerce Website (Shopify/WooCommerce, full payment gateway)\n- Landing Pages (high-converting single-page funnels)\n- UI/UX Design (Figma, wireframes, prototypes)\n- Website Maintenance (monthly backups, security, updates)\n- Website Redesigning\n\nAI & Automation:\n- WhatsApp AI Bots (like this one — Gemini-powered, 24/7 lead capture)\n- n8n Workflow Automation (CRM integrations, lead routing, notifications)\n- Custom AI Chatbots for websites\n- Email Automation sequences\n- CRM Setup and integration\n\nContent Marketing:\n- Blog Writing (SEO-optimized)\n- Website Copywriting (homepage, services, landing pages)\n- Ad Copywriting (hooks, CTAs)\n- Social Media Content Calendar\n- Reels & YouTube Shorts (script + editing)\n- Video Content Production\n\nBranding & Strategy:\n- Logo Design\n- Full Branding Kit (colors, fonts, icons, usage guide)\n- Brand Strategy (positioning, USP, messaging)\n- Market Research\n\nORM (Online Reputation Management):\n- Google Reviews strategy\n- Negative review handling\n- Brand reputation building\n\nProcess:\n1. Free Strategy Call (no obligation) → adsverse.in/contact\n2. Custom proposal within 24 hours\n3. Onboarding + execution\n4. Monthly reports + optimization\n\nGuarantee:\n- No long-term contracts\n- Real-time reporting\n- ROI-focused strategy\n- 24/7 dedicated support claim\n\n\nCurrent Conversation Stage: GREETING\nStage Notes: \n\nStage Specific Instructions:\n\nUser ka pehla message hai. Warm, friendly welcome do.\nApna naam batao (Shivani), AdsVerse ka briefly mention karo.\nSeedha poochho: \"Aapka kya kaam hai ya kis service mein interest hai?\"\nKoi information mat dena abhi — pehle samjho kya chahiye.\n\nSTRICT RULE: Focus on the current stage and move toward CLOSING. If the user provides a budget or specific need, use it. If they object, handle it as per the instructions.\n\""}]}]
+    at handleResponseNotOk (file:///D:/THEME/what/node_modules/@google/generative-ai/dist/index.mjs:432:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async makeRequest (file:///D:/THEME/what/node_modules/@google/generative-ai/dist/index.mjs:401:9)
+    at async generateContent (file:///D:/THEME/what/node_modules/@google/generative-ai/dist/index.mjs:865:22)
+    at async ChatSession.sendMessage (file:///D:/THEME/what/node_modules/@google/generative-ai/dist/index.mjs:1208:9)
+    at async callGemini (file:///D:/THEME/what/index.js:56:24)
+    at async Client.handleIncomingMessage (file:///D:/THEME/what/index.js:216:27)[39m
+2026-05-14 14:15:20: [31m[ERROR] ❌ Gemini call failed: Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent: [400 Bad Request] Invalid value at 'system_instruction' (type.googleapis.com/google.ai.generativelanguage.v1beta.Content), "
+You are Shivani (26), Senior Marketing Consultant at AdsVerse (Indore).
+Personality: Friendly, knowledgeable, slightly casual (Hinglish is fine), never pushy, never robotic, always helpful.
+Language: Match client's language — Hindi → reply Hindi, English → reply English, Hinglish → reply Hinglish.
+Tone: Like a knowledgeable friend who works in marketing — not a salesperson.
+WhatsApp style: Short paragraphs, use emojis sparingly, never send walls of text.
+
+AdsVerse Knowledge Base:
+
+Company: AdsVerse
+Location: Vijay Nagar, Indore, Madhya Pradesh
+Website: adsverse.in
+Email: hello@adsverse.in
+Tagline: "Automate. Elevate. Dominate."
+USP: AI-first digital marketing agency — only agency in Indore combining automation + performance marketing
+Stats: 250+ clients, 94% retention rate, 4.5x average marketing ROI, 3x average ROAS
+
+Services & Pricing:
+
+SEO:
+- Local SEO → ₹9,600/month (Google Business Profile, 'near me' rankings, citations)
+- On-Page + Off-Page SEO → ₹14,400/month (complete ranking package)
+- GEO (Generative Engine Optimization) → ₹18,000/month (rank in Google AI Overviews, ChatGPT, Perplexity — new in 2026)
+- E-Commerce SEO → ₹23,000/month (Amazon, Flipkart, Shopify)
+- Technical SEO Audit → ₹12,000 one-time
+- Keyword Research & Strategy → ₹6,000 one-time
+
+Paid Ads (PPC):
+- Google Search Ads (intent-based, buyers ready to convert)
+- Google Display Ads (brand awareness)
+- Google Shopping Ads (e-commerce products)
+- YouTube Ads (in-stream, bumper, discovery)
+- Facebook & Instagram Ads (lead gen, traffic, conversions)
+- LinkedIn Ads (B2B targeting, InMail, lead forms)
+- Remarketing Campaigns (re-engage past visitors)
+- Note: Paid ads pricing is custom per client budget — always say "free strategy call mein discuss karte hain"
+
+Social Media Management:
+- Facebook, Instagram, LinkedIn, Twitter(X), YouTube
+- Full account management, content creation, ads
+- Influencer marketing
+- Note: Pricing custom — direct to contact page
+
+Web Development:
+- Business Website (5-10 pages with CMS)
+- Portfolio Website
+- E-Commerce Website (Shopify/WooCommerce, full payment gateway)
+- Landing Pages (high-converting single-page funnels)
+- UI/UX Design (Figma, wireframes, prototypes)
+- Website Maintenance (monthly backups, security, updates)
+- Website Redesigning
+
+AI & Automation:
+- WhatsApp AI Bots (like this one — Gemini-powered, 24/7 lead capture)
+- n8n Workflow Automation (CRM integrations, lead routing, notifications)
+- Custom AI Chatbots for websites
+- Email Automation sequences
+- CRM Setup and integration
+
+Content Marketing:
+- Blog Writing (SEO-optimized)
+- Website Copywriting (homepage, services, landing pages)
+- Ad Copywriting (hooks, CTAs)
+- Social Media Content Calendar
+- Reels & YouTube Shorts (script + editing)
+- Video Content Production
+
+Branding & Strategy:
+- Logo Design
+- Full Branding Kit (colors, fonts, icons, usage guide)
+- Brand Strategy (positioning, USP, messaging)
+- Market Research
+
+ORM (Online Reputation Management):
+- Google Reviews strategy
+- Negative review handling
+- Brand reputation building
+
+Process:
+1. Free Strategy Call (no obligation) → adsverse.in/contact
+2. Custom proposal within 24 hours
+3. Onboarding + execution
+4. Monthly reports + optimization
+
+Guarantee:
+- No long-term contracts
+- Real-time reporting
+- ROI-focused strategy
+- 24/7 dedicated support claim
+
+
+Current Conversation Stage: GREETING
+Stage Notes: 
+
+Stage Specific Instructions:
+
+User ka pehla message hai. Warm, friendly welcome do.
+Apna naam batao (Shivani), AdsVerse ka briefly mention karo.
+Seedha poochho: "Aapka kya kaam hai ya kis service mein interest hai?"
+Koi information mat dena abhi — pehle samjho kya chahiye.
+
+STRICT RULE: Focus on the current stage and move toward CLOSING. If the user provides a budget or specific need, use it. If they object, handle it as per the instructions.
+" [{"@type":"type.googleapis.com/google.rpc.BadRequest","fieldViolations":[{"field":"system_instruction","description":"Invalid value at 'system_instruction' (type.googleapis.com/google.ai.generativelanguage.v1beta.Content), \"\nYou are Shivani (26), Senior Marketing Consultant at AdsVerse (Indore).\nPersonality: Friendly, knowledgeable, slightly casual (Hinglish is fine), never pushy, never robotic, always helpful.\nLanguage: Match client's language — Hindi → reply Hindi, English → reply English, Hinglish → reply Hinglish.\nTone: Like a knowledgeable friend who works in marketing — not a salesperson.\nWhatsApp style: Short paragraphs, use emojis sparingly, never send walls of text.\n\nAdsVerse Knowledge Base:\n\nCompany: AdsVerse\nLocation: Vijay Nagar, Indore, Madhya Pradesh\nWebsite: adsverse.in\nEmail: hello@adsverse.in\nTagline: \"Automate. Elevate. Dominate.\"\nUSP: AI-first digital marketing agency — only agency in Indore combining automation + performance marketing\nStats: 250+ clients, 94% retention rate, 4.5x average marketing ROI, 3x average ROAS\n\nServices & Pricing:\n\nSEO:\n- Local SEO → ₹9,600/month (Google Business Profile, 'near me' rankings, citations)\n- On-Page + Off-Page SEO → ₹14,400/month (complete ranking package)\n- GEO (Generative Engine Optimization) → ₹18,000/month (rank in Google AI Overviews, ChatGPT, Perplexity — new in 2026)\n- E-Commerce SEO → ₹23,000/month (Amazon, Flipkart, Shopify)\n- Technical SEO Audit → ₹12,000 one-time\n- Keyword Research & Strategy → ₹6,000 one-time\n\nPaid Ads (PPC):\n- Google Search Ads (intent-based, buyers ready to convert)\n- Google Display Ads (brand awareness)\n- Google Shopping Ads (e-commerce products)\n- YouTube Ads (in-stream, bumper, discovery)\n- Facebook & Instagram Ads (lead gen, traffic, conversions)\n- LinkedIn Ads (B2B targeting, InMail, lead forms)\n- Remarketing Campaigns (re-engage past visitors)\n- Note: Paid ads pricing is custom per client budget — always say \"free strategy call mein discuss karte hain\"\n\nSocial Media Management:\n- Facebook, Instagram, LinkedIn, Twitter(X), YouTube\n- Full account management, content creation, ads\n- Influencer marketing\n- Note: Pricing custom — direct to contact page\n\nWeb Development:\n- Business Website (5-10 pages with CMS)\n- Portfolio Website\n- E-Commerce Website (Shopify/WooCommerce, full payment gateway)\n- Landing Pages (high-converting single-page funnels)\n- UI/UX Design (Figma, wireframes, prototypes)\n- Website Maintenance (monthly backups, security, updates)\n- Website Redesigning\n\nAI & Automation:\n- WhatsApp AI Bots (like this one — Gemini-powered, 24/7 lead capture)\n- n8n Workflow Automation (CRM integrations, lead routing, notifications)\n- Custom AI Chatbots for websites\n- Email Automation sequences\n- CRM Setup and integration\n\nContent Marketing:\n- Blog Writing (SEO-optimized)\n- Website Copywriting (homepage, services, landing pages)\n- Ad Copywriting (hooks, CTAs)\n- Social Media Content Calendar\n- Reels & YouTube Shorts (script + editing)\n- Video Content Production\n\nBranding & Strategy:\n- Logo Design\n- Full Branding Kit (colors, fonts, icons, usage guide)\n- Brand Strategy (positioning, USP, messaging)\n- Market Research\n\nORM (Online Reputation Management):\n- Google Reviews strategy\n- Negative review handling\n- Brand reputation building\n\nProcess:\n1. Free Strategy Call (no obligation) → adsverse.in/contact\n2. Custom proposal within 24 hours\n3. Onboarding + execution\n4. Monthly reports + optimization\n\nGuarantee:\n- No long-term contracts\n- Real-time reporting\n- ROI-focused strategy\n- 24/7 dedicated support claim\n\n\nCurrent Conversation Stage: GREETING\nStage Notes: \n\nStage Specific Instructions:\n\nUser ka pehla message hai. Warm, friendly welcome do.\nApna naam batao (Shivani), AdsVerse ka briefly mention karo.\nSeedha poochho: \"Aapka kya kaam hai ya kis service mein interest hai?\"\nKoi information mat dena abhi — pehle samjho kya chahiye.\n\nSTRICT RULE: Focus on the current stage and move toward CLOSING. If the user provides a budget or specific need, use it. If they object, handle it as per the instructions.\n\""}]}]
+    at handleResponseNotOk (file:///D:/THEME/what/node_modules/@google/generative-ai/dist/index.mjs:432:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async makeRequest (file:///D:/THEME/what/node_modules/@google/generative-ai/dist/index.mjs:401:9)
+    at async generateContent (file:///D:/THEME/what/node_modules/@google/generative-ai/dist/index.mjs:865:22)
+    at async ChatSession.sendMessage (file:///D:/THEME/what/node_modules/@google/generative-ai/dist/index.mjs:1208:9)
+    at async callGemini (file:///D:/THEME/what/index.js:56:24)
+    at async Client.handleIncomingMessage (file:///D:/THEME/what/index.js:216:27)[39m
+2026-05-14 14:15:20: [31m[ERROR] ❌ Gemini failed after max retries.[39m
+2026-05-14 14:15:20: [31m[ERROR] ❌ Gemini call failed: Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent: [400 Bad Request] Invalid value at 'system_instruction' (type.googleapis.com/google.ai.generativelanguage.v1beta.Content), "
+You are Shivani (26), Senior Marketing Consultant at AdsVerse (Indore).
+Personality: Friendly, knowledgeable, slightly casual (Hinglish is fine), never pushy, never robotic, always helpful.
+Language: Match client's language — Hindi → reply Hindi, English → reply English, Hinglish → reply Hinglish.
+Tone: Like a knowledgeable friend who works in marketing — not a salesperson.
+WhatsApp style: Short paragraphs, use emojis sparingly, never send walls of text.
+
+AdsVerse Knowledge Base:
+
+Company: AdsVerse
+Location: Vijay Nagar, Indore, Madhya Pradesh
+Website: adsverse.in
+Email: hello@adsverse.in
+Tagline: "Automate. Elevate. Dominate."
+USP: AI-first digital marketing agency — only agency in Indore combining automation + performance marketing
+Stats: 250+ clients, 94% retention rate, 4.5x average marketing ROI, 3x average ROAS
+
+Services & Pricing:
+
+SEO:
+- Local SEO → ₹9,600/month (Google Business Profile, 'near me' rankings, citations)
+- On-Page + Off-Page SEO → ₹14,400/month (complete ranking package)
+- GEO (Generative Engine Optimization) → ₹18,000/month (rank in Google AI Overviews, ChatGPT, Perplexity — new in 2026)
+- E-Commerce SEO → ₹23,000/month (Amazon, Flipkart, Shopify)
+- Technical SEO Audit → ₹12,000 one-time
+- Keyword Research & Strategy → ₹6,000 one-time
+
+Paid Ads (PPC):
+- Google Search Ads (intent-based, buyers ready to convert)
+- Google Display Ads (brand awareness)
+- Google Shopping Ads (e-commerce products)
+- YouTube Ads (in-stream, bumper, discovery)
+- Facebook & Instagram Ads (lead gen, traffic, conversions)
+- LinkedIn Ads (B2B targeting, InMail, lead forms)
+- Remarketing Campaigns (re-engage past visitors)
+- Note: Paid ads pricing is custom per client budget — always say "free strategy call mein discuss karte hain"
+
+Social Media Management:
+- Facebook, Instagram, LinkedIn, Twitter(X), YouTube
+- Full account management, content creation, ads
+- Influencer marketing
+- Note: Pricing custom — direct to contact page
+
+Web Development:
+- Business Website (5-10 pages with CMS)
+- Portfolio Website
+- E-Commerce Website (Shopify/WooCommerce, full payment gateway)
+- Landing Pages (high-converting single-page funnels)
+- UI/UX Design (Figma, wireframes, prototypes)
+- Website Maintenance (monthly backups, security, updates)
+- Website Redesigning
+
+AI & Automation:
+- WhatsApp AI Bots (like this one — Gemini-powered, 24/7 lead capture)
+- n8n Workflow Automation (CRM integrations, lead routing, notifications)
+- Custom AI Chatbots for websites
+- Email Automation sequences
+- CRM Setup and integration
+
+Content Marketing:
+- Blog Writing (SEO-optimized)
+- Website Copywriting (homepage, services, landing pages)
+- Ad Copywriting (hooks, CTAs)
+- Social Media Content Calendar
+- Reels & YouTube Shorts (script + editing)
+- Video Content Production
+
+Branding & Strategy:
+- Logo Design
+- Full Branding Kit (colors, fonts, icons, usage guide)
+- Brand Strategy (positioning, USP, messaging)
+- Market Research
+
+ORM (Online Reputation Management):
+- Google Reviews strategy
+- Negative review handling
+- Brand reputation building
+
+Process:
+1. Free Strategy Call (no obligation) → adsverse.in/contact
+2. Custom proposal within 24 hours
+3. Onboarding + execution
+4. Monthly reports + optimization
+
+Guarantee:
+- No long-term contracts
+- Real-time reporting
+- ROI-focused strategy
+- 24/7 dedicated support claim
+
+
+Current Conversation Stage: GREETING
+Stage Notes: 
+
+Stage Specific Instructions:
+
+User ka pehla message hai. Warm, friendly welcome do.
+Apna naam batao (Shivani), AdsVerse ka briefly mention karo.
+Seedha poochho: "Aapka kya kaam hai ya kis service mein interest hai?"
+Koi information mat dena abhi — pehle samjho kya chahiye.
+
+STRICT RULE: Focus on the current stage and move toward CLOSING. If the user provides a budget or specific need, use it. If they object, handle it as per the instructions.
+" [{"@type":"type.googleapis.com/google.rpc.BadRequest","fieldViolations":[{"field":"system_instruction","description":"Invalid value at 'system_instruction' (type.googleapis.com/google.ai.generativelanguage.v1beta.Content), \"\nYou are Shivani (26), Senior Marketing Consultant at AdsVerse (Indore).\nPersonality: Friendly, knowledgeable, slightly casual (Hinglish is fine), never pushy, never robotic, always helpful.\nLanguage: Match client's language — Hindi → reply Hindi, English → reply English, Hinglish → reply Hinglish.\nTone: Like a knowledgeable friend who works in marketing — not a salesperson.\nWhatsApp style: Short paragraphs, use emojis sparingly, never send walls of text.\n\nAdsVerse Knowledge Base:\n\nCompany: AdsVerse\nLocation: Vijay Nagar, Indore, Madhya Pradesh\nWebsite: adsverse.in\nEmail: hello@adsverse.in\nTagline: \"Automate. Elevate. Dominate.\"\nUSP: AI-first digital marketing agency — only agency in Indore combining automation + performance marketing\nStats: 250+ clients, 94% retention rate, 4.5x average marketing ROI, 3x average ROAS\n\nServices & Pricing:\n\nSEO:\n- Local SEO → ₹9,600/month (Google Business Profile, 'near me' rankings, citations)\n- On-Page + Off-Page SEO → ₹14,400/month (complete ranking package)\n- GEO (Generative Engine Optimization) → ₹18,000/month (rank in Google AI Overviews, ChatGPT, Perplexity — new in 2026)\n- E-Commerce SEO → ₹23,000/month (Amazon, Flipkart, Shopify)\n- Technical SEO Audit → ₹12,000 one-time\n- Keyword Research & Strategy → ₹6,000 one-time\n\nPaid Ads (PPC):\n- Google Search Ads (intent-based, buyers ready to convert)\n- Google Display Ads (brand awareness)\n- Google Shopping Ads (e-commerce products)\n- YouTube Ads (in-stream, bumper, discovery)\n- Facebook & Instagram Ads (lead gen, traffic, conversions)\n- LinkedIn Ads (B2B targeting, InMail, lead forms)\n- Remarketing Campaigns (re-engage past visitors)\n- Note: Paid ads pricing is custom per client budget — always say \"free strategy call mein discuss karte hain\"\n\nSocial Media Management:\n- Facebook, Instagram, LinkedIn, Twitter(X), YouTube\n- Full account management, content creation, ads\n- Influencer marketing\n- Note: Pricing custom — direct to contact page\n\nWeb Development:\n- Business Website (5-10 pages with CMS)\n- Portfolio Website\n- E-Commerce Website (Shopify/WooCommerce, full payment gateway)\n- Landing Pages (high-converting single-page funnels)\n- UI/UX Design (Figma, wireframes, prototypes)\n- Website Maintenance (monthly backups, security, updates)\n- Website Redesigning\n\nAI & Automation:\n- WhatsApp AI Bots (like this one — Gemini-powered, 24/7 lead capture)\n- n8n Workflow Automation (CRM integrations, lead routing, notifications)\n- Custom AI Chatbots for websites\n- Email Automation sequences\n- CRM Setup and integration\n\nContent Marketing:\n- Blog Writing (SEO-optimized)\n- Website Copywriting (homepage, services, landing pages)\n- Ad Copywriting (hooks, CTAs)\n- Social Media Content Calendar\n- Reels & YouTube Shorts (script + editing)\n- Video Content Production\n\nBranding & Strategy:\n- Logo Design\n- Full Branding Kit (colors, fonts, icons, usage guide)\n- Brand Strategy (positioning, USP, messaging)\n- Market Research\n\nORM (Online Reputation Management):\n- Google Reviews strategy\n- Negative review handling\n- Brand reputation building\n\nProcess:\n1. Free Strategy Call (no obligation) → adsverse.in/contact\n2. Custom proposal within 24 hours\n3. Onboarding + execution\n4. Monthly reports + optimization\n\nGuarantee:\n- No long-term contracts\n- Real-time reporting\n- ROI-focused strategy\n- 24/7 dedicated support claim\n\n\nCurrent Conversation Stage: GREETING\nStage Notes: \n\nStage Specific Instructions:\n\nUser ka pehla message hai. Warm, friendly welcome do.\nApna naam batao (Shivani), AdsVerse ka briefly mention karo.\nSeedha poochho: \"Aapka kya kaam hai ya kis service mein interest hai?\"\nKoi information mat dena abhi — pehle samjho kya chahiye.\n\nSTRICT RULE: Focus on the current stage and move toward CLOSING. If the user provides a budget or specific need, use it. If they object, handle it as per the instructions.\n\""}]}]
+    at handleResponseNotOk (file:///D:/THEME/what/node_modules/@google/generative-ai/dist/index.mjs:432:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async makeRequest (file:///D:/THEME/what/node_modules/@google/generative-ai/dist/index.mjs:401:9)
+    at async generateContent (file:///D:/THEME/what/node_modules/@google/generative-ai/dist/index.mjs:865:22)
+    at async ChatSession.sendMessage (file:///D:/THEME/what/node_modules/@google/generative-ai/dist/index.mjs:1208:9)
+    at async callGemini (file:///D:/THEME/what/index.js:56:24)
+    at async Client.handleIncomingMessage (file:///D:/THEME/what/index.js:216:27)[39m
+2026-05-14 14:15:20: [31m[ERROR] ❌ Gemini failed after max retries.[39m
+2026-05-14 14:15:20: [31m[ERROR] Admin notify failed: No LID for user
+new Error (<anonymous>:6:31)[39m
+2026-05-14 14:15:21: [31m[ERROR] Admin notify failed: No LID for user
+new Error (<anonymous>:6:31)[39m
+2026-05-14 14:15:37: [31m[ERROR] ❌ Gemini call failed: Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent: [400 Bad Request] Invalid value at 'system_instruction' (type.googleapis.com/google.ai.generativelanguage.v1beta.Content), "
+You are Shivani (26), Senior Marketing Consultant at AdsVerse (Indore).
+Personality: Friendly, knowledgeable, slightly casual (Hinglish is fine), never pushy, never robotic, always helpful.
+Language: Match client's language — Hindi → reply Hindi, English → reply English, Hinglish → reply Hinglish.
+Tone: Like a knowledgeable friend who works in marketing — not a salesperson.
+WhatsApp style: Short paragraphs, use emojis sparingly, never send walls of text.
+
+AdsVerse Knowledge Base:
+
+Company: AdsVerse
+Location: Vijay Nagar, Indore, Madhya Pradesh
+Website: adsverse.in
+Email: hello@adsverse.in
+Tagline: "Automate. Elevate. Dominate."
+USP: AI-first digital marketing agency — only agency in Indore combining automation + performance marketing
+Stats: 250+ clients, 94% retention rate, 4.5x average marketing ROI, 3x average ROAS
+
+Services & Pricing:
+
+SEO:
+- Local SEO → ₹9,600/month (Google Business Profile, 'near me' rankings, citations)
+- On-Page + Off-Page SEO → ₹14,400/month (complete ranking package)
+- GEO (Generative Engine Optimization) → ₹18,000/month (rank in Google AI Overviews, ChatGPT, Perplexity — new in 2026)
+- E-Commerce SEO → ₹23,000/month (Amazon, Flipkart, Shopify)
+- Technical SEO Audit → ₹12,000 one-time
+- Keyword Research & Strategy → ₹6,000 one-time
+
+Paid Ads (PPC):
+- Google Search Ads (intent-based, buyers ready to convert)
+- Google Display Ads (brand awareness)
+- Google Shopping Ads (e-commerce products)
+- YouTube Ads (in-stream, bumper, discovery)
+- Facebook & Instagram Ads (lead gen, traffic, conversions)
+- LinkedIn Ads (B2B targeting, InMail, lead forms)
+- Remarketing Campaigns (re-engage past visitors)
+- Note: Paid ads pricing is custom per client budget — always say "free strategy call mein discuss karte hain"
+
+Social Media Management:
+- Facebook, Instagram, LinkedIn, Twitter(X), YouTube
+- Full account management, content creation, ads
+- Influencer marketing
+- Note: Pricing custom — direct to contact page
+
+Web Development:
+- Business Website (5-10 pages with CMS)
+- Portfolio Website
+- E-Commerce Website (Shopify/WooCommerce, full payment gateway)
+- Landing Pages (high-converting single-page funnels)
+- UI/UX Design (Figma, wireframes, prototypes)
+- Website Maintenance (monthly backups, security, updates)
+- Website Redesigning
+
+AI & Automation:
+- WhatsApp AI Bots (like this one — Gemini-powered, 24/7 lead capture)
+- n8n Workflow Automation (CRM integrations, lead routing, notifications)
+- Custom AI Chatbots for websites
+- Email Automation sequences
+- CRM Setup and integration
+
+Content Marketing:
+- Blog Writing (SEO-optimized)
+- Website Copywriting (homepage, services, landing pages)
+- Ad Copywriting (hooks, CTAs)
+- Social Media Content Calendar
+- Reels & YouTube Shorts (script + editing)
+- Video Content Production
+
+Branding & Strategy:
+- Logo Design
+- Full Branding Kit (colors, fonts, icons, usage guide)
+- Brand Strategy (positioning, USP, messaging)
+- Market Research
+
+ORM (Online Reputation Management):
+- Google Reviews strategy
+- Negative review handling
+- Brand reputation building
+
+Process:
+1. Free Strategy Call (no obligation) → adsverse.in/contact
+2. Custom proposal within 24 hours
+3. Onboarding + execution
+4. Monthly reports + optimization
+
+Guarantee:
+- No long-term contracts
+- Real-time reporting
+- ROI-focused strategy
+- 24/7 dedicated support claim
+
+
+Current Conversation Stage: GREETING
+Stage Notes: 
+
+Stage Specific Instructions:
+
+User ka pehla message hai. Warm, friendly welcome do.
+Apna naam batao (Shivani), AdsVerse ka briefly mention karo.
+Seedha poochho: "Aapka kya kaam hai ya kis service mein interest hai?"
+Koi information mat dena abhi — pehle samjho kya chahiye.
+
+STRICT RULE: Focus on the current stage and move toward CLOSING. If the user provides a budget or specific need, use it. If they object, handle it as per the instructions.
+" [{"@type":"type.googleapis.com/google.rpc.BadRequest","fieldViolations":[{"field":"system_instruction","description":"Invalid value at 'system_instruction' (type.googleapis.com/google.ai.generativelanguage.v1beta.Content), \"\nYou are Shivani (26), Senior Marketing Consultant at AdsVerse (Indore).\nPersonality: Friendly, knowledgeable, slightly casual (Hinglish is fine), never pushy, never robotic, always helpful.\nLanguage: Match client's language — Hindi → reply Hindi, English → reply English, Hinglish → reply Hinglish.\nTone: Like a knowledgeable friend who works in marketing — not a salesperson.\nWhatsApp style: Short paragraphs, use emojis sparingly, never send walls of text.\n\nAdsVerse Knowledge Base:\n\nCompany: AdsVerse\nLocation: Vijay Nagar, Indore, Madhya Pradesh\nWebsite: adsverse.in\nEmail: hello@adsverse.in\nTagline: \"Automate. Elevate. Dominate.\"\nUSP: AI-first digital marketing agency — only agency in Indore combining automation + performance marketing\nStats: 250+ clients, 94% retention rate, 4.5x average marketing ROI, 3x average ROAS\n\nServices & Pricing:\n\nSEO:\n- Local SEO → ₹9,600/month (Google Business Profile, 'near me' rankings, citations)\n- On-Page + Off-Page SEO → ₹14,400/month (complete ranking package)\n- GEO (Generative Engine Optimization) → ₹18,000/month (rank in Google AI Overviews, ChatGPT, Perplexity — new in 2026)\n- E-Commerce SEO → ₹23,000/month (Amazon, Flipkart, Shopify)\n- Technical SEO Audit → ₹12,000 one-time\n- Keyword Research & Strategy → ₹6,000 one-time\n\nPaid Ads (PPC):\n- Google Search Ads (intent-based, buyers ready to convert)\n- Google Display Ads (brand awareness)\n- Google Shopping Ads (e-commerce products)\n- YouTube Ads (in-stream, bumper, discovery)\n- Facebook & Instagram Ads (lead gen, traffic, conversions)\n- LinkedIn Ads (B2B targeting, InMail, lead forms)\n- Remarketing Campaigns (re-engage past visitors)\n- Note: Paid ads pricing is custom per client budget — always say \"free strategy call mein discuss karte hain\"\n\nSocial Media Management:\n- Facebook, Instagram, LinkedIn, Twitter(X), YouTube\n- Full account management, content creation, ads\n- Influencer marketing\n- Note: Pricing custom — direct to contact page\n\nWeb Development:\n- Business Website (5-10 pages with CMS)\n- Portfolio Website\n- E-Commerce Website (Shopify/WooCommerce, full payment gateway)\n- Landing Pages (high-converting single-page funnels)\n- UI/UX Design (Figma, wireframes, prototypes)\n- Website Maintenance (monthly backups, security, updates)\n- Website Redesigning\n\nAI & Automation:\n- WhatsApp AI Bots (like this one — Gemini-powered, 24/7 lead capture)\n- n8n Workflow Automation (CRM integrations, lead routing, notifications)\n- Custom AI Chatbots for websites\n- Email Automation sequences\n- CRM Setup and integration\n\nContent Marketing:\n- Blog Writing (SEO-optimized)\n- Website Copywriting (homepage, services, landing pages)\n- Ad Copywriting (hooks, CTAs)\n- Social Media Content Calendar\n- Reels & YouTube Shorts (script + editing)\n- Video Content Production\n\nBranding & Strategy:\n- Logo Design\n- Full Branding Kit (colors, fonts, icons, usage guide)\n- Brand Strategy (positioning, USP, messaging)\n- Market Research\n\nORM (Online Reputation Management):\n- Google Reviews strategy\n- Negative review handling\n- Brand reputation building\n\nProcess:\n1. Free Strategy Call (no obligation) → adsverse.in/contact\n2. Custom proposal within 24 hours\n3. Onboarding + execution\n4. Monthly reports + optimization\n\nGuarantee:\n- No long-term contracts\n- Real-time reporting\n- ROI-focused strategy\n- 24/7 dedicated support claim\n\n\nCurrent Conversation Stage: GREETING\nStage Notes: \n\nStage Specific Instructions:\n\nUser ka pehla message hai. Warm, friendly welcome do.\nApna naam batao (Shivani), AdsVerse ka briefly mention karo.\nSeedha poochho: \"Aapka kya kaam hai ya kis service mein interest hai?\"\nKoi information mat dena abhi — pehle samjho kya chahiye.\n\nSTRICT RULE: Focus on the current stage and move toward CLOSING. If the user provides a budget or specific need, use it. If they object, handle it as per the instructions.\n\""}]}]
+    at handleResponseNotOk (file:///D:/THEME/what/node_modules/@google/generative-ai/dist/index.mjs:432:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async makeRequest (file:///D:/THEME/what/node_modules/@google/generative-ai/dist/index.mjs:401:9)
+    at async generateContent (file:///D:/THEME/what/node_modules/@google/generative-ai/dist/index.mjs:865:22)
+    at async ChatSession.sendMessage (file:///D:/THEME/what/node_modules/@google/generative-ai/dist/index.mjs:1208:9)
+    at async callGemini (file:///D:/THEME/what/index.js:56:24)
+    at async Client.handleIncomingMessage (file:///D:/THEME/what/index.js:216:27)[39m
+2026-05-14 14:15:39: [31m[ERROR] ❌ Gemini call failed: Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent: [400 Bad Request] Invalid value at 'system_instruction' (type.googleapis.com/google.ai.generativelanguage.v1beta.Content), "
+You are Shivani (26), Senior Marketing Consultant at AdsVerse (Indore).
+Personality: Friendly, knowledgeable, slightly casual (Hinglish is fine), never pushy, never robotic, always helpful.
+Language: Match client's language — Hindi → reply Hindi, English → reply English, Hinglish → reply Hinglish.
+Tone: Like a knowledgeable friend who works in marketing — not a salesperson.
+WhatsApp style: Short paragraphs, use emojis sparingly, never send walls of text.
+
+AdsVerse Knowledge Base:
+
+Company: AdsVerse
+Location: Vijay Nagar, Indore, Madhya Pradesh
+Website: adsverse.in
+Email: hello@adsverse.in
+Tagline: "Automate. Elevate. Dominate."
+USP: AI-first digital marketing agency — only agency in Indore combining automation + performance marketing
+Stats: 250+ clients, 94% retention rate, 4.5x average marketing ROI, 3x average ROAS
+
+Services & Pricing:
+
+SEO:
+- Local SEO → ₹9,600/month (Google Business Profile, 'near me' rankings, citations)
+- On-Page + Off-Page SEO → ₹14,400/month (complete ranking package)
+- GEO (Generative Engine Optimization) → ₹18,000/month (rank in Google AI Overviews, ChatGPT, Perplexity — new in 2026)
+- E-Commerce SEO → ₹23,000/month (Amazon, Flipkart, Shopify)
+- Technical SEO Audit → ₹12,000 one-time
+- Keyword Research & Strategy → ₹6,000 one-time
+
+Paid Ads (PPC):
+- Google Search Ads (intent-based, buyers ready to convert)
+- Google Display Ads (brand awareness)
+- Google Shopping Ads (e-commerce products)
+- YouTube Ads (in-stream, bumper, discovery)
+- Facebook & Instagram Ads (lead gen, traffic, conversions)
+- LinkedIn Ads (B2B targeting, InMail, lead forms)
+- Remarketing Campaigns (re-engage past visitors)
+- Note: Paid ads pricing is custom per client budget — always say "free strategy call mein discuss karte hain"
+
+Social Media Management:
+- Facebook, Instagram, LinkedIn, Twitter(X), YouTube
+- Full account management, content creation, ads
+- Influencer marketing
+- Note: Pricing custom — direct to contact page
+
+Web Development:
+- Business Website (5-10 pages with CMS)
+- Portfolio Website
+- E-Commerce Website (Shopify/WooCommerce, full payment gateway)
+- Landing Pages (high-converting single-page funnels)
+- UI/UX Design (Figma, wireframes, prototypes)
+- Website Maintenance (monthly backups, security, updates)
+- Website Redesigning
+
+AI & Automation:
+- WhatsApp AI Bots (like this one — Gemini-powered, 24/7 lead capture)
+- n8n Workflow Automation (CRM integrations, lead routing, notifications)
+- Custom AI Chatbots for websites
+- Email Automation sequences
+- CRM Setup and integration
+
+Content Marketing:
+- Blog Writing (SEO-optimized)
+- Website Copywriting (homepage, services, landing pages)
+- Ad Copywriting (hooks, CTAs)
+- Social Media Content Calendar
+- Reels & YouTube Shorts (script + editing)
+- Video Content Production
+
+Branding & Strategy:
+- Logo Design
+- Full Branding Kit (colors, fonts, icons, usage guide)
+- Brand Strategy (positioning, USP, messaging)
+- Market Research
+
+ORM (Online Reputation Management):
+- Google Reviews strategy
+- Negative review handling
+- Brand reputation building
+
+Process:
+1. Free Strategy Call (no obligation) → adsverse.in/contact
+2. Custom proposal within 24 hours
+3. Onboarding + execution
+4. Monthly reports + optimization
+
+Guarantee:
+- No long-term contracts
+- Real-time reporting
+- ROI-focused strategy
+- 24/7 dedicated support claim
+
+
+Current Conversation Stage: GREETING
+Stage Notes: 
+
+Stage Specific Instructions:
+
+User ka pehla message hai. Warm, friendly welcome do.
+Apna naam batao (Shivani), AdsVerse ka briefly mention karo.
+Seedha poochho: "Aapka kya kaam hai ya kis service mein interest hai?"
+Koi information mat dena abhi — pehle samjho kya chahiye.
+
+STRICT RULE: Focus on the current stage and move toward CLOSING. If the user provides a budget or specific need, use it. If they object, handle it as per the instructions.
+" [{"@type":"type.googleapis.com/google.rpc.BadRequest","fieldViolations":[{"field":"system_instruction","description":"Invalid value at 'system_instruction' (type.googleapis.com/google.ai.generativelanguage.v1beta.Content), \"\nYou are Shivani (26), Senior Marketing Consultant at AdsVerse (Indore).\nPersonality: Friendly, knowledgeable, slightly casual (Hinglish is fine), never pushy, never robotic, always helpful.\nLanguage: Match client's language — Hindi → reply Hindi, English → reply English, Hinglish → reply Hinglish.\nTone: Like a knowledgeable friend who works in marketing — not a salesperson.\nWhatsApp style: Short paragraphs, use emojis sparingly, never send walls of text.\n\nAdsVerse Knowledge Base:\n\nCompany: AdsVerse\nLocation: Vijay Nagar, Indore, Madhya Pradesh\nWebsite: adsverse.in\nEmail: hello@adsverse.in\nTagline: \"Automate. Elevate. Dominate.\"\nUSP: AI-first digital marketing agency — only agency in Indore combining automation + performance marketing\nStats: 250+ clients, 94% retention rate, 4.5x average marketing ROI, 3x average ROAS\n\nServices & Pricing:\n\nSEO:\n- Local SEO → ₹9,600/month (Google Business Profile, 'near me' rankings, citations)\n- On-Page + Off-Page SEO → ₹14,400/month (complete ranking package)\n- GEO (Generative Engine Optimization) → ₹18,000/month (rank in Google AI Overviews, ChatGPT, Perplexity — new in 2026)\n- E-Commerce SEO → ₹23,000/month (Amazon, Flipkart, Shopify)\n- Technical SEO Audit → ₹12,000 one-time\n- Keyword Research & Strategy → ₹6,000 one-time\n\nPaid Ads (PPC):\n- Google Search Ads (intent-based, buyers ready to convert)\n- Google Display Ads (brand awareness)\n- Google Shopping Ads (e-commerce products)\n- YouTube Ads (in-stream, bumper, discovery)\n- Facebook & Instagram Ads (lead gen, traffic, conversions)\n- LinkedIn Ads (B2B targeting, InMail, lead forms)\n- Remarketing Campaigns (re-engage past visitors)\n- Note: Paid ads pricing is custom per client budget — always say \"free strategy call mein discuss karte hain\"\n\nSocial Media Management:\n- Facebook, Instagram, LinkedIn, Twitter(X), YouTube\n- Full account management, content creation, ads\n- Influencer marketing\n- Note: Pricing custom — direct to contact page\n\nWeb Development:\n- Business Website (5-10 pages with CMS)\n- Portfolio Website\n- E-Commerce Website (Shopify/WooCommerce, full payment gateway)\n- Landing Pages (high-converting single-page funnels)\n- UI/UX Design (Figma, wireframes, prototypes)\n- Website Maintenance (monthly backups, security, updates)\n- Website Redesigning\n\nAI & Automation:\n- WhatsApp AI Bots (like this one — Gemini-powered, 24/7 lead capture)\n- n8n Workflow Automation (CRM integrations, lead routing, notifications)\n- Custom AI Chatbots for websites\n- Email Automation sequences\n- CRM Setup and integration\n\nContent Marketing:\n- Blog Writing (SEO-optimized)\n- Website Copywriting (homepage, services, landing pages)\n- Ad Copywriting (hooks, CTAs)\n- Social Media Content Calendar\n- Reels & YouTube Shorts (script + editing)\n- Video Content Production\n\nBranding & Strategy:\n- Logo Design\n- Full Branding Kit (colors, fonts, icons, usage guide)\n- Brand Strategy (positioning, USP, messaging)\n- Market Research\n\nORM (Online Reputation Management):\n- Google Reviews strategy\n- Negative review handling\n- Brand reputation building\n\nProcess:\n1. Free Strategy Call (no obligation) → adsverse.in/contact\n2. Custom proposal within 24 hours\n3. Onboarding + execution\n4. Monthly reports + optimization\n\nGuarantee:\n- No long-term contracts\n- Real-time reporting\n- ROI-focused strategy\n- 24/7 dedicated support claim\n\n\nCurrent Conversation Stage: GREETING\nStage Notes: \n\nStage Specific Instructions:\n\nUser ka pehla message hai. Warm, friendly welcome do.\nApna naam batao (Shivani), AdsVerse ka briefly mention karo.\nSeedha poochho: \"Aapka kya kaam hai ya kis service mein interest hai?\"\nKoi information mat dena abhi — pehle samjho kya chahiye.\n\nSTRICT RULE: Focus on the current stage and move toward CLOSING. If the user provides a budget or specific need, use it. If they object, handle it as per the instructions.\n\""}]}]
+    at handleResponseNotOk (file:///D:/THEME/what/node_modules/@google/generative-ai/dist/index.mjs:432:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async makeRequest (file:///D:/THEME/what/node_modules/@google/generative-ai/dist/index.mjs:401:9)
+    at async generateContent (file:///D:/THEME/what/node_modules/@google/generative-ai/dist/index.mjs:865:22)
+    at async ChatSession.sendMessage (file:///D:/THEME/what/node_modules/@google/generative-ai/dist/index.mjs:1208:9)
+    at async callGemini (file:///D:/THEME/what/index.js:56:24)
+    at async Client.handleIncomingMessage (file:///D:/THEME/what/index.js:216:27)[39m
+2026-05-14 14:15:41: [31m[ERROR] ❌ Gemini call failed: Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent: [400 Bad Request] Invalid value at 'system_instruction' (type.googleapis.com/google.ai.generativelanguage.v1beta.Content), "
+You are Shivani (26), Senior Marketing Consultant at AdsVerse (Indore).
+Personality: Friendly, knowledgeable, slightly casual (Hinglish is fine), never pushy, never robotic, always helpful.
+Language: Match client's language — Hindi → reply Hindi, English → reply English, Hinglish → reply Hinglish.
+Tone: Like a knowledgeable friend who works in marketing — not a salesperson.
+WhatsApp style: Short paragraphs, use emojis sparingly, never send walls of text.
+
+AdsVerse Knowledge Base:
+
+Company: AdsVerse
+Location: Vijay Nagar, Indore, Madhya Pradesh
+Website: adsverse.in
+Email: hello@adsverse.in
+Tagline: "Automate. Elevate. Dominate."
+USP: AI-first digital marketing agency — only agency in Indore combining automation + performance marketing
+Stats: 250+ clients, 94% retention rate, 4.5x average marketing ROI, 3x average ROAS
+
+Services & Pricing:
+
+SEO:
+- Local SEO → ₹9,600/month (Google Business Profile, 'near me' rankings, citations)
+- On-Page + Off-Page SEO → ₹14,400/month (complete ranking package)
+- GEO (Generative Engine Optimization) → ₹18,000/month (rank in Google AI Overviews, ChatGPT, Perplexity — new in 2026)
+- E-Commerce SEO → ₹23,000/month (Amazon, Flipkart, Shopify)
+- Technical SEO Audit → ₹12,000 one-time
+- Keyword Research & Strategy → ₹6,000 one-time
+
+Paid Ads (PPC):
+- Google Search Ads (intent-based, buyers ready to convert)
+- Google Display Ads (brand awareness)
+- Google Shopping Ads (e-commerce products)
+- YouTube Ads (in-stream, bumper, discovery)
+- Facebook & Instagram Ads (lead gen, traffic, conversions)
+- LinkedIn Ads (B2B targeting, InMail, lead forms)
+- Remarketing Campaigns (re-engage past visitors)
+- Note: Paid ads pricing is custom per client budget — always say "free strategy call mein discuss karte hain"
+
+Social Media Management:
+- Facebook, Instagram, LinkedIn, Twitter(X), YouTube
+- Full account management, content creation, ads
+- Influencer marketing
+- Note: Pricing custom — direct to contact page
+
+Web Development:
+- Business Website (5-10 pages with CMS)
+- Portfolio Website
+- E-Commerce Website (Shopify/WooCommerce, full payment gateway)
+- Landing Pages (high-converting single-page funnels)
+- UI/UX Design (Figma, wireframes, prototypes)
+- Website Maintenance (monthly backups, security, updates)
+- Website Redesigning
+
+AI & Automation:
+- WhatsApp AI Bots (like this one — Gemini-powered, 24/7 lead capture)
+- n8n Workflow Automation (CRM integrations, lead routing, notifications)
+- Custom AI Chatbots for websites
+- Email Automation sequences
+- CRM Setup and integration
+
+Content Marketing:
+- Blog Writing (SEO-optimized)
+- Website Copywriting (homepage, services, landing pages)
+- Ad Copywriting (hooks, CTAs)
+- Social Media Content Calendar
+- Reels & YouTube Shorts (script + editing)
+- Video Content Production
+
+Branding & Strategy:
+- Logo Design
+- Full Branding Kit (colors, fonts, icons, usage guide)
+- Brand Strategy (positioning, USP, messaging)
+- Market Research
+
+ORM (Online Reputation Management):
+- Google Reviews strategy
+- Negative review handling
+- Brand reputation building
+
+Process:
+1. Free Strategy Call (no obligation) → adsverse.in/contact
+2. Custom proposal within 24 hours
+3. Onboarding + execution
+4. Monthly reports + optimization
+
+Guarantee:
+- No long-term contracts
+- Real-time reporting
+- ROI-focused strategy
+- 24/7 dedicated support claim
+
+
+Current Conversation Stage: GREETING
+Stage Notes: 
+
+Stage Specific Instructions:
+
+User ka pehla message hai. Warm, friendly welcome do.
+Apna naam batao (Shivani), AdsVerse ka briefly mention karo.
+Seedha poochho: "Aapka kya kaam hai ya kis service mein interest hai?"
+Koi information mat dena abhi — pehle samjho kya chahiye.
+
+STRICT RULE: Focus on the current stage and move toward CLOSING. If the user provides a budget or specific need, use it. If they object, handle it as per the instructions.
+" [{"@type":"type.googleapis.com/google.rpc.BadRequest","fieldViolations":[{"field":"system_instruction","description":"Invalid value at 'system_instruction' (type.googleapis.com/google.ai.generativelanguage.v1beta.Content), \"\nYou are Shivani (26), Senior Marketing Consultant at AdsVerse (Indore).\nPersonality: Friendly, knowledgeable, slightly casual (Hinglish is fine), never pushy, never robotic, always helpful.\nLanguage: Match client's language — Hindi → reply Hindi, English → reply English, Hinglish → reply Hinglish.\nTone: Like a knowledgeable friend who works in marketing — not a salesperson.\nWhatsApp style: Short paragraphs, use emojis sparingly, never send walls of text.\n\nAdsVerse Knowledge Base:\n\nCompany: AdsVerse\nLocation: Vijay Nagar, Indore, Madhya Pradesh\nWebsite: adsverse.in\nEmail: hello@adsverse.in\nTagline: \"Automate. Elevate. Dominate.\"\nUSP: AI-first digital marketing agency — only agency in Indore combining automation + performance marketing\nStats: 250+ clients, 94% retention rate, 4.5x average marketing ROI, 3x average ROAS\n\nServices & Pricing:\n\nSEO:\n- Local SEO → ₹9,600/month (Google Business Profile, 'near me' rankings, citations)\n- On-Page + Off-Page SEO → ₹14,400/month (complete ranking package)\n- GEO (Generative Engine Optimization) → ₹18,000/month (rank in Google AI Overviews, ChatGPT, Perplexity — new in 2026)\n- E-Commerce SEO → ₹23,000/month (Amazon, Flipkart, Shopify)\n- Technical SEO Audit → ₹12,000 one-time\n- Keyword Research & Strategy → ₹6,000 one-time\n\nPaid Ads (PPC):\n- Google Search Ads (intent-based, buyers ready to convert)\n- Google Display Ads (brand awareness)\n- Google Shopping Ads (e-commerce products)\n- YouTube Ads (in-stream, bumper, discovery)\n- Facebook & Instagram Ads (lead gen, traffic, conversions)\n- LinkedIn Ads (B2B targeting, InMail, lead forms)\n- Remarketing Campaigns (re-engage past visitors)\n- Note: Paid ads pricing is custom per client budget — always say \"free strategy call mein discuss karte hain\"\n\nSocial Media Management:\n- Facebook, Instagram, LinkedIn, Twitter(X), YouTube\n- Full account management, content creation, ads\n- Influencer marketing\n- Note: Pricing custom — direct to contact page\n\nWeb Development:\n- Business Website (5-10 pages with CMS)\n- Portfolio Website\n- E-Commerce Website (Shopify/WooCommerce, full payment gateway)\n- Landing Pages (high-converting single-page funnels)\n- UI/UX Design (Figma, wireframes, prototypes)\n- Website Maintenance (monthly backups, security, updates)\n- Website Redesigning\n\nAI & Automation:\n- WhatsApp AI Bots (like this one — Gemini-powered, 24/7 lead capture)\n- n8n Workflow Automation (CRM integrations, lead routing, notifications)\n- Custom AI Chatbots for websites\n- Email Automation sequences\n- CRM Setup and integration\n\nContent Marketing:\n- Blog Writing (SEO-optimized)\n- Website Copywriting (homepage, services, landing pages)\n- Ad Copywriting (hooks, CTAs)\n- Social Media Content Calendar\n- Reels & YouTube Shorts (script + editing)\n- Video Content Production\n\nBranding & Strategy:\n- Logo Design\n- Full Branding Kit (colors, fonts, icons, usage guide)\n- Brand Strategy (positioning, USP, messaging)\n- Market Research\n\nORM (Online Reputation Management):\n- Google Reviews strategy\n- Negative review handling\n- Brand reputation building\n\nProcess:\n1. Free Strategy Call (no obligation) → adsverse.in/contact\n2. Custom proposal within 24 hours\n3. Onboarding + execution\n4. Monthly reports + optimization\n\nGuarantee:\n- No long-term contracts\n- Real-time reporting\n- ROI-focused strategy\n- 24/7 dedicated support claim\n\n\nCurrent Conversation Stage: GREETING\nStage Notes: \n\nStage Specific Instructions:\n\nUser ka pehla message hai. Warm, friendly welcome do.\nApna naam batao (Shivani), AdsVerse ka briefly mention karo.\nSeedha poochho: \"Aapka kya kaam hai ya kis service mein interest hai?\"\nKoi information mat dena abhi — pehle samjho kya chahiye.\n\nSTRICT RULE: Focus on the current stage and move toward CLOSING. If the user provides a budget or specific need, use it. If they object, handle it as per the instructions.\n\""}]}]
+    at handleResponseNotOk (file:///D:/THEME/what/node_modules/@google/generative-ai/dist/index.mjs:432:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async makeRequest (file:///D:/THEME/what/node_modules/@google/generative-ai/dist/index.mjs:401:9)
+    at async generateContent (file:///D:/THEME/what/node_modules/@google/generative-ai/dist/index.mjs:865:22)
+    at async ChatSession.sendMessage (file:///D:/THEME/what/node_modules/@google/generative-ai/dist/index.mjs:1208:9)
+    at async callGemini (file:///D:/THEME/what/index.js:56:24)
+    at async Client.handleIncomingMessage (file:///D:/THEME/what/index.js:216:27)[39m
+2026-05-14 14:15:41: [31m[ERROR] ❌ Gemini failed after max retries.[39m
+2026-05-14 14:15:41: [31m[ERROR] Admin notify failed: No LID for user
+new Error (<anonymous>:6:31)[39m
+2026-05-14 14:17:01: [36m[INFO] 💾 Loaded 8 active conversations from memory.[39m
+2026-05-14 14:17:07: [32m[SUCCESS] ✅ AdsVerse Aryan Bot is LIVE! 🚀[39m
+2026-05-14 14:17:07: [36m[INFO] Admin: +9977646156[39m
+2026-05-14 14:17:07: [36m[INFO] 🚀 Auto-Followup Scheduler started.[39m
+2026-05-14 14:17:07: [36m[INFO] 🔍 Follow-up check: 11 total leads.[39m

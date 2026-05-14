@@ -188,5 +188,38 @@
     "lastActivity": 1774854043297,
     "profile": {},
     "sessionMsgCount": 3
+  },
+  "146463485071440@lid": {
+    "messages": [
+      {
+        "role": "user",
+        "content": ""
+      }
+    ],
+    "lastActivity": 1778748316254,
+    "profile": {},
+    "sessionMsgCount": 1
+  },
+  "78550757544147@lid": {
+    "messages": [
+      {
+        "role": "user",
+        "content": ""
+      }
+    ],
+    "lastActivity": 1778748316315,
+    "profile": {},
+    "sessionMsgCount": 1
+  },
+  "242811714691079@lid": {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hi"
+      }
+    ],
+    "lastActivity": 1778748336923,
+    "profile": {},
+    "sessionMsgCount": 1
   }
 }

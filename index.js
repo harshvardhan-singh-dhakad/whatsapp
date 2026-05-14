@@ -24,7 +24,7 @@ import { startFollowUpScheduler } from './src/followUpManager.js';
 
 // ─── AI Setup ─────────────────────────────────────────────────────────────────
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
-const MODEL_NAME = 'gemini-2.5-flash-lite';
+const MODEL_NAME = 'gemini-1.5-flash';
 const aiModel = genAI.getGenerativeModel({ model: MODEL_NAME });
 
 // ─── CONFIG ───────────────────────────────────────────────────────────────────
@@ -262,7 +262,7 @@ async function handleIncomingMessage(msg) {
         await new Promise(r => setTimeout(r, delay));
         await msg.reply(aiReply);
 
-        logger.success(`Aryan replied to ${senderNumber} [Stage: ${stageManager.getStage(senderNumber)}]`);
+        logger.success(`Shivani replied to ${senderNumber} [Stage: ${stageManager.getStage(senderNumber)}]`);
 
     } catch (error) {
         logger.error(`❌ Process Error:`, error);
@@ -273,7 +273,7 @@ async function handleIncomingMessage(msg) {
 
 // ─── BOT READY ────────────────────────────────────────────────────────────────
 client.on('ready', () => {
-    logger.success('✅ AdsVerse Aryan Bot is LIVE! 🚀');
+    logger.success('✅ AdsVerse Shivani Bot is LIVE! 🚀');
     logger.info(`Admin: +${ADMIN_NUMBER}`);
     startFollowUpScheduler(client, leadManager);
 });

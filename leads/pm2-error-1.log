@@ -1,0 +1,5 @@
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+Error: The browser is already running for D:\THEME\what\.wwebjs_auth\session. Use a different `userDataDir` or stop the running browser first.
+    at ChromeLauncher.launch (D:\THEME\what\node_modules\puppeteer-core\lib\cjs\puppeteer\node\BrowserLauncher.js:175:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Client.initialize (D:\THEME\what\node_modules\whatsapp-web.js\src\Client.js:331:23)
