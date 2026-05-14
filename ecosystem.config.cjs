@@ -1,7 +1,7 @@
 module.exports = {
   apps: [
     {
-      name: 'adsverse-bot',
+      name: 'shivani',
       script: './index.js',
       instances: 1,
       autorestart: true,

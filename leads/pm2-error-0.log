@@ -59,3 +59,8 @@ SyntaxError: Identifier 'pauseAutomation' has already been declared
     at ModuleLoader.getOrCreateModuleJob (node:internal/modules/esm/loader:631:12)
     at ModuleJob.syncLink (node:internal/modules/esm/module_job:160:33)
     at ModuleJob.link (node:internal/modules/esm/module_job:245:17)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+Error: The browser is already running for D:\THEME\what\.wwebjs_auth\session. Use a different `userDataDir` or stop the running browser first.
+    at ChromeLauncher.launch (D:\THEME\what\node_modules\puppeteer-core\lib\cjs\puppeteer\node\BrowserLauncher.js:175:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Client.initialize (D:\THEME\what\node_modules\whatsapp-web.js\src\Client.js:331:23)
