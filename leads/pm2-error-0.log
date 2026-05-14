@@ -1,0 +1,61 @@
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+Error: The browser is already running for C:\Users\Deepak\Downloads\what\.wwebjs_auth\session. Use a different `userDataDir` or stop the running browser first.
+    at ChromeLauncher.launch (C:\Users\Deepak\Downloads\what\node_modules\puppeteer-core\lib\cjs\puppeteer\node\BrowserLauncher.js:175:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Client.initialize (C:\Users\Deepak\Downloads\what\node_modules\whatsapp-web.js\src\Client.js:331:23)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+Error: The browser is already running for C:\Users\Deepak\Downloads\what\.wwebjs_auth\session. Use a different `userDataDir` or stop the running browser first.
+    at ChromeLauncher.launch (C:\Users\Deepak\Downloads\what\node_modules\puppeteer-core\lib\cjs\puppeteer\node\BrowserLauncher.js:175:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Client.initialize (C:\Users\Deepak\Downloads\what\node_modules\whatsapp-web.js\src\Client.js:331:23)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+Error: The browser is already running for C:\Users\Deepak\Downloads\what\.wwebjs_auth\session. Use a different `userDataDir` or stop the running browser first.
+    at ChromeLauncher.launch (C:\Users\Deepak\Downloads\what\node_modules\puppeteer-core\lib\cjs\puppeteer\node\BrowserLauncher.js:175:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Client.initialize (C:\Users\Deepak\Downloads\what\node_modules\whatsapp-web.js\src\Client.js:331:23)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+Error: The browser is already running for C:\Users\Deepak\Downloads\what\.wwebjs_auth\session. Use a different `userDataDir` or stop the running browser first.
+    at ChromeLauncher.launch (C:\Users\Deepak\Downloads\what\node_modules\puppeteer-core\lib\cjs\puppeteer\node\BrowserLauncher.js:175:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Client.initialize (C:\Users\Deepak\Downloads\what\node_modules\whatsapp-web.js\src\Client.js:331:23)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+Error: The browser is already running for C:\Users\Deepak\Downloads\what\.wwebjs_auth\session. Use a different `userDataDir` or stop the running browser first.
+    at ChromeLauncher.launch (C:\Users\Deepak\Downloads\what\node_modules\puppeteer-core\lib\cjs\puppeteer\node\BrowserLauncher.js:175:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Client.initialize (C:\Users\Deepak\Downloads\what\node_modules\whatsapp-web.js\src\Client.js:331:23)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+Error: The browser is already running for C:\Users\Deepak\Downloads\what\.wwebjs_auth\session. Use a different `userDataDir` or stop the running browser first.
+    at ChromeLauncher.launch (C:\Users\Deepak\Downloads\what\node_modules\puppeteer-core\lib\cjs\puppeteer\node\BrowserLauncher.js:175:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Client.initialize (C:\Users\Deepak\Downloads\what\node_modules\whatsapp-web.js\src\Client.js:331:23)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+Error: The browser is already running for C:\Users\Deepak\Downloads\what\.wwebjs_auth\session. Use a different `userDataDir` or stop the running browser first.
+    at ChromeLauncher.launch (C:\Users\Deepak\Downloads\what\node_modules\puppeteer-core\lib\cjs\puppeteer\node\BrowserLauncher.js:175:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Client.initialize (C:\Users\Deepak\Downloads\what\node_modules\whatsapp-web.js\src\Client.js:331:23)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+Error: The browser is already running for C:\Users\Deepak\Downloads\what\.wwebjs_auth\session. Use a different `userDataDir` or stop the running browser first.
+    at ChromeLauncher.launch (C:\Users\Deepak\Downloads\what\node_modules\puppeteer-core\lib\cjs\puppeteer\node\BrowserLauncher.js:175:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Client.initialize (C:\Users\Deepak\Downloads\what\node_modules\whatsapp-web.js\src\Client.js:331:23)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+Error: Execution context was destroyed, most likely because of a navigation.
+    at rewriteError (C:\Users\Deepak\Downloads\what\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\ExecutionContext.js:457:15)
+    at async #evaluate (C:\Users\Deepak\Downloads\what\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\ExecutionContext.js:389:60)
+    at async ExecutionContext.evaluate (C:\Users\Deepak\Downloads\what\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\ExecutionContext.js:277:16)
+    at async IsolatedWorld.evaluate (C:\Users\Deepak\Downloads\what\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\IsolatedWorld.js:100:16)
+    at async CdpFrame.evaluate (C:\Users\Deepak\Downloads\what\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Frame.js:362:20)
+    at async CdpPage.evaluate (C:\Users\Deepak\Downloads\what\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:830:20)
+    at async Client.handleIncomingMessage (file:///C:/Users/Deepak/Downloads/what/index.js:140:9)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+SyntaxError: Identifier 'pauseAutomation' has already been declared
+    at compileSourceTextModule (node:internal/modules/esm/utils:318:16)
+    at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:99:18)
+    at #translate (node:internal/modules/esm/loader:473:20)
+    at afterLoad (node:internal/modules/esm/loader:529:29)
+    at ModuleLoader.loadAndTranslate (node:internal/modules/esm/loader:534:12)
+    at #getOrCreateModuleJobAfterResolve (node:internal/modules/esm/loader:577:36)
+    at afterResolve (node:internal/modules/esm/loader:625:52)
+    at ModuleLoader.getOrCreateModuleJob (node:internal/modules/esm/loader:631:12)
+    at ModuleJob.syncLink (node:internal/modules/esm/module_job:160:33)
+    at ModuleJob.link (node:internal/modules/esm/module_job:245:17)

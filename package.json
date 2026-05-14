@@ -1,0 +1,34 @@
+{
+  "name": "adsverse-bot",
+  "version": "2.0.0",
+  "type": "module",
+  "description": "AdsVerse WhatsApp AI Automation v2.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "view-leads": "node tools/viewLeads.js",
+    "show-stats": "node tools/showStats.js",
+    "reset-session": "Powershell -Command 'Remove-Item -Path .wwebjs_auth -Recurse -Force'"
+  },
+  "keywords": [
+    "whatsapp",
+    "automation",
+    "gemini",
+    "ai",
+    "leadgen"
+  ],
+  "author": "AdsVerse Team",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^1.46.0",
+    "@google/generative-ai": "^0.24.1",
+    "colors": "^1.4.0",
+    "dotenv": "^16.6.1",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.34.6"
+  },
+  "devDependencies": {
+    "pm2": "^6.0.14"
+  }
+}

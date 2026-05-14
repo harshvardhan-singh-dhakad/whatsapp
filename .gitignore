@@ -1,0 +1,20 @@
+# Secret Keys & Environment
+.env
+
+# WhatsApp Session Data (DO NOT SHARE)
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Dependencies
+node_modules/
+
+# Logs & Temporary Data
+logs/*.log
+stats.json
+
+# Leads Data (Customer Privacy)
+leads/*.csv
+
+# System Files
+.DS_Store
+Thumbs.db

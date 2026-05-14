@@ -1,0 +1,173 @@
+{
+  "244817565090037@lid": {
+    "phone": "244817565090037@lid",
+    "firstMessage": "",
+    "firstContact": "2026-03-24T11:19:46.970Z",
+    "messageCount": 6,
+    "status": "New Lead",
+    "lastMessage": "Pls connect me with a person",
+    "lastContact": "2026-03-24T11:21:53.810Z"
+  },
+  "259291890094142@lid": {
+    "phone": "259291890094142@lid",
+    "firstMessage": "Hi",
+    "firstContact": "2026-03-24T11:20:46.983Z",
+    "messageCount": 2,
+    "status": "New Lead",
+    "lastMessage": "Hi",
+    "lastContact": "2026-03-25T04:54:40.972Z"
+  },
+  "242811714691079@lid": {
+    "phone": "242811714691079@lid",
+    "firstMessage": "Hi",
+    "firstContact": "2026-03-24T11:35:52.451Z",
+    "messageCount": 4,
+    "status": "Engaged",
+    "lastMessage": "hi",
+    "lastContact": "2026-03-24T11:36:14.664Z",
+    "lastAiReply": "Hello again. To proceed with tailoring your Meta Ads strategy, please specify your business type and your primary market",
+    "lastUpdated": "2026-03-26T07:33:35.314Z",
+    "serviceInterests": [
+      "PAID_ADS"
+    ],
+    "adminNotified": true,
+    "note": "[Auto] Stage 1 follow-up sent.",
+    "followUpStage": 1
+  },
+  "77339811668046@lid": {
+    "phone": "77339811668046@lid",
+    "firstMessage": "ab sahi ho gaya",
+    "firstContact": "2026-03-24T11:55:32.323Z",
+    "messageCount": 7,
+    "status": "Qualified",
+    "lastMessage": "meko nahi leni teri sarvice ab bol",
+    "lastAiReply": "Understood. If your business needs change, you can explore our services and schedule a consultation at https://adsverse.",
+    "lastUpdated": "2026-03-26T07:33:38.153Z",
+    "serviceInterests": [
+      "PAID_ADS",
+      "ANALYTICS_ORM",
+      "SEO",
+      "SOCIAL_MEDIA"
+    ],
+    "adminNotified": true,
+    "note": "[Auto] Stage 1 follow-up sent.",
+    "followUpStage": 1
+  },
+  "103491666227378@lid": {
+    "phone": "103491666227378@lid",
+    "firstMessage": "",
+    "firstContact": "2026-03-26T06:30:54.476Z",
+    "lastMessage": "i love you 2",
+    "lastAiReply": "Alright! So, what kind of business do you run?",
+    "lastUpdated": "2026-03-27T05:08:21.149Z",
+    "messageCount": 5,
+    "serviceInterests": [],
+    "status": "Qualified",
+    "adminNotified": true,
+    "followUpSent": false,
+    "followUpStage": 1,
+    "note": "[Auto] Stage 1 follow-up sent."
+  },
+  "259291890094142": {
+    "phone": "259291890094142",
+    "firstMessage": "Hii",
+    "firstContact": "2026-03-26T07:35:25.671Z",
+    "lastMessage": "Gmb matlab kya hai",
+    "lastAiReply": "Actually, GMB is Google My Business. Book a call to discuss.",
+    "lastUpdated": "2026-03-30T09:31:49.726Z",
+    "messageCount": 24,
+    "serviceInterests": [
+      "PAID_ADS",
+      "PRICING",
+      "GREETING",
+      "SEO",
+      "WEB_DEV"
+    ],
+    "status": "Engaged",
+    "adminNotified": true,
+    "followUpSent": false,
+    "followUpStage": 0,
+    "automationPausedUntil": "2026-03-26T08:35:26.935Z",
+    "score": 35
+  },
+  "242811714691079": {
+    "phone": "242811714691079",
+    "firstMessage": "Hi",
+    "firstContact": "2026-03-26T07:42:53.029Z",
+    "lastMessage": "bata to diya",
+    "lastAiReply": "Aap hi batao. USP, business goal, website?",
+    "lastUpdated": "2026-03-27T08:53:03.237Z",
+    "messageCount": 40,
+    "serviceInterests": [
+      "GREETING",
+      "SEO",
+      "PRICING",
+      "WEB_DEV"
+    ],
+    "status": "Engaged",
+    "adminNotified": true,
+    "followUpSent": false,
+    "followUpStage": 0,
+    "automationPausedUntil": "2026-03-26T08:42:54.339Z",
+    "score": 35
+  },
+  "77339811668046": {
+    "phone": "77339811668046",
+    "firstMessage": "Ha kya seen he",
+    "firstContact": "2026-03-26T08:32:22.423Z",
+    "lastMessage": "Apani purani bat kya kya yadd apako",
+    "lastAiReply": "Humara focus aapke current business goals par hai. Aap bataiye, abhi aapko lead generation mein koi specific challenge a",
+    "lastUpdated": "2026-03-26T08:32:39.467Z",
+    "messageCount": 3,
+    "serviceInterests": [],
+    "status": "Engaged",
+    "adminNotified": false,
+    "followUpSent": false,
+    "followUpStage": 0
+  },
+  "13135550202": {
+    "phone": "13135550202",
+    "firstMessage": "",
+    "firstContact": "2026-03-27T05:08:13.674Z",
+    "lastMessage": "",
+    "lastAiReply": "I am Shivani from AdsVerse. How can I help grow your business today?",
+    "lastUpdated": "2026-03-27T05:08:13.674Z",
+    "messageCount": 1,
+    "serviceInterests": [],
+    "status": "New Lead",
+    "adminNotified": false,
+    "followUpSent": false,
+    "followUpStage": 0
+  },
+  "103491666227378": {
+    "phone": "103491666227378",
+    "firstMessage": ".",
+    "firstContact": "2026-03-27T05:09:12.254Z",
+    "lastMessage": ".",
+    "lastAiReply": "I am Shivani from AdsVerse. How can I help grow your business today?",
+    "lastUpdated": "2026-03-27T05:09:12.254Z",
+    "messageCount": 1,
+    "serviceInterests": [],
+    "status": "New Lead",
+    "adminNotified": false,
+    "followUpSent": false,
+    "followUpStage": 0
+  },
+  "20456979607625": {
+    "phone": "20456979607625",
+    "firstMessage": "",
+    "firstContact": "2026-03-30T07:00:42.870Z",
+    "lastMessage": "Hello",
+    "lastAiReply": "Welcome. How can AdsVerse help?",
+    "lastUpdated": "2026-03-30T07:00:43.295Z",
+    "messageCount": 3,
+    "serviceInterests": [
+      "GREETING"
+    ],
+    "status": "Engaged",
+    "score": 15,
+    "adminNotified": false,
+    "followUpSent": false,
+    "followUpStage": 0
+  }
+}
